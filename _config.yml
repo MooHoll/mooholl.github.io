@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Hollie Marshall"
-  avatar           : "profile.png"
-  bio              : "I am an ecological epigeneticist. I specialise in non-model species, specifically arthropods. Currently my work focuses on understanding the role of DNA methylation in processes such as; genomic imprinting, paternal genome elimination and environmental adaptation."
+  avatar           : "me.jpg"
+  bio              : "I am an ecological epigeneticist. I specialise in non-model arthropod species. Currently my work focuses on understanding the role of DNA methylation in processes such as; genomic imprinting, paternal genome elimination and environmental adaptation."
   location         : "University of Edinburgh"
   employer         :
   pubmed           :
@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
+  outreach:
     output: true
     permalink: /:collection/:path/
 
@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: outreach
     values:
       layout: talk
       author_profile: true
