@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Hollie Marshall"
 title_separator          : " "
 name                     : &name "Dr. Hollie Marshall"
-description              : &description "blah"
+description              : &description "Postdoctoral Researcher at the University of Edinburgh"
 url                      : https://mooholl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mooholl/mooholl.github.io"
@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  research:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  outreach:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: research
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: teaching
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: outreach
+      type: talks
     values:
       layout: talk
       author_profile: true
