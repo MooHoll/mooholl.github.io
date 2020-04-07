@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[PRE-PRINT: **Marshall, H.**, Jones, A. R. C., Lonsdale, Z. N. and Mallon, E. B. (2020). Bumblebee worker castes show differences in allele-specific DNA methylation and allele-specific expression. *bioR<sub>X</sub>iv*.](https://doi.org/10.1101/2020.02.07.938423)
+
+[PRE-PRINT: **Marshall, H.**, van Zweden, J. S., Van Geystelen, A., Benaets, K., Wäckers, F., Mallon, E. B. and Wenseleers, T. (2020). Parent of origin gene expression in the bumblebee, *Bombus terrestris*, supports Haig’s kinship theory for the evolution of genomic imprinting. *bioR<sub>X</sub>iv*.](https://doi.org/10.1101/2020.01.17.909168)
+
 [**Marshall, H.**, Lonsdale, Z. N. and Mallon, E. B. (2019). Methylation and gene expression differences between reproductive and sterile bumblebee workers. *Evolution Letters*. 3 (5); p485-499.](https://doi.org/10.1002/evl3.129)
 
 [Bebane, P. S. A., Hunt, B. J., Pegoraro, M., Jones, A. R. C., **Marshall, H.**, Rosato, E. and Mallon, E. B. (2019). The effects of the neonicotinoid imidacloprid on gene expression and DNA methylation in the buff-tailed bumblebee *Bombus terrestris*. *Proceedings B*. 286:20190718.](https://doi.org/10.1098/rspb.2019.0718)
