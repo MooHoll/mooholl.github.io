@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[Marshall, H., Lonsdale, Z. N. and Mallon, E. B. (2019). Methylation and gene expression differences between reproductive and sterile bumblebee workers. *Evolution Letters*. 3 (5); p485-499.](http://academicpages.github.io/files/Marshall2019.pdf)
+[Marshall, H., Lonsdale, Z. N. and Mallon, E. B. (2019). Methylation and gene expression differences between reproductive and sterile bumblebee workers. *Evolution Letters*. 3 (5); p485-499.](https://doi.org/10.1002/evl3.129)
 
 Bebane, P. S. A., Hunt, B. J., Pegoraro, M., Jones, A. R. C., Marshall, H., Rosato, E. and Mallon, E. B. (2019). The effects of the neonicotinoid imidacloprid on gene expression and DNA methylation in the buff-tailed bumblebee *Bombus terrestris*. *Proceedings B*. 286:20190718.
 
