@@ -12,7 +12,7 @@ I am broadly interested in the function of epigenetic mechanisms of non-model sp
 
 I also completed my masters degree with Dr. Luisa Orsini and Dr. Maria Cuenca-Cambronero at the Univeristy of Birmingham, UK exploring temporal genetic stability and fitness responses to eutrophication in a population of <i>Daphnia magna</i>. Last, but certainly not least, I started my academic career at the Univerity of Worcester, UK working with Dr. Mike Wheeler, where I did my dissertation on non-invasive methods of genotyping wild owl populations. 
 
-.striped-border { border: 1px dashed #000; width: 50%; margin: auto; margin-top: 5%; margin-bottom: 5%; }
+___
 
 I **strongly** believe in the principles of open science and inclusion, as such I will use this website as a repository for all of my research/academic outputs. This includes things like; applications, papers, grants etc. 
 
