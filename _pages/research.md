@@ -5,7 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
-stuff
 
+<h3>The role of DNA methylation in paternal genome elimination in the mealybug, <i>Planococcus citri</i>.</h3>
 
-PhD thesis in [pdf](https://www.dropbox.com/s/2xljle9lip12t4a/2019MARSHALLHJPhD.pdf?dl=0) and [LaTeX](https://www.overleaf.com/read/mmkptttrjzpx).
+ADD INTRO HERE.
+
+<h3>Genomic imprinting in the bumblebee, <i>Bombus terrestris</i>, as a test for Haig's kinship theory.</h3>
+
+ADD INTRO HERE.
+
+PhD thesis [pdf](https://www.dropbox.com/s/2xljle9lip12t4a/2019MARSHALLHJPhD.pdf?dl=0) and [LaTeX document](https://www.overleaf.com/read/mmkptttrjzpx).
+
+<h3>Temporal population epigenetics and adaptive epigenetics in the freshwater crustacean, <i>Daphnia magna</i>.</h3>
+
+ADD INTRO HERE.
+
+Related previous work using this system: masters thesis [pdf](https://www.dropbox.com/s/ub3srnksve91tu4/Hollie_Marshall_1493971.pdf?dl=0).
