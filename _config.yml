@@ -217,7 +217,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _teaching
   - scope:
       path: ""
@@ -234,7 +233,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _outreach
   - scope:
       path: ""
@@ -243,7 +241,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
   # _talks
   - scope:
       path: ""
