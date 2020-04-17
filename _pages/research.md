@@ -10,11 +10,12 @@ author_profile: true
 
 ADD INTRO HERE.
 
-<h3>Genomic imprinting in the bumblebee, <i>Bombus terrestris</i>, as a test for Haig's kinship theory.</h3>
+<h3>Genomic imprinting in the bumblebee, <i>Bombus terrestris</i>, as a test for Haig's kinship theory. [Full project details.](https://mooholl.github.io/research/bumblebees)</h3>
 
-![bee](/files/callow_bee.jpg){:height="25%" width="25%"}
+![bee](/files/callow_bee.jpg){:height="25%" width="25%" .center-image}
+
 Pic: Callow (<24hrs old) <i>Bombus terrestris</i> worker.
-[Full project details.](https://mooholl.github.io/research/bumblebees)
+
 
 
 
