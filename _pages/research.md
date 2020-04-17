@@ -14,6 +14,8 @@ ADD INTRO HERE.
 
 ![callow_bee](files/callow_bee.jpg)
 
+[Full project details.](https://mooholl.github.io/research/bumblebees)
+
 
 
 <h3>Temporal population epigenetics and adaptive epigenetics in the freshwater crustacean, <i>Daphnia magna</i>.</h3>
