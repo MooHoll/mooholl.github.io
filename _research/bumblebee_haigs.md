@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/bumblebees
+permalink: /talks/bumblebees
 author_profile: true
 ---
 TESTING
