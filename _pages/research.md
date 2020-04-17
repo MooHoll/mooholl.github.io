@@ -12,7 +12,7 @@ ADD INTRO HERE.
 
 <h3>Genomic imprinting in the bumblebee, <i>Bombus terrestris</i>, as a test for Haig's kinship theory.</h3>
 
-![bee](/files/callow_bee.jpg)
+![bee](/files/callow_bee.jpg) <!-- .element height="50%" width="50%" -->
 Above: Callow (<24hrs old) <i>Bombus terrestris</i> worker.
 
 [Full project details.](https://mooholl.github.io/research/bumblebees)
