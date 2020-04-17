@@ -21,4 +21,5 @@ I will also create a section with hints and tips for aspiring scientists. Being 
 Finally, should you; be interested in collaboration, have an ecological epigenetics quesion or just want to talk academic careers, you can reach me at hollie_marshall@hotmail.co.uk or on twitter @MooHoll.
 
 ![<i>Bombus terrestris colony</i>.](files/bumblebee_colony.jpg){:height="75%" width="75%"}
+
 Pic above: colony of <i>Bombus terrestris</i> bumblebees in a lab rearing box. The queen is marked with a yellow dot on her thorax.
