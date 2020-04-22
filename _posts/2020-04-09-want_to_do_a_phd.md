@@ -6,6 +6,7 @@ tags:
   - students
   - academic careers
   - phd
+description: 'A practical post about applying to PhD positions.'
 ---
 
 <h2>Are you sure?</h2>
