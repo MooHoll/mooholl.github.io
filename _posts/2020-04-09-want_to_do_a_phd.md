@@ -48,7 +48,7 @@ Life is full of rejection, especially academic life! The truth is there are way 
 
 These are my main tips that I may change as the PhD application landscape evolves. See below for my personal story from undergrad to PhD, warning: it’s a bit emosh.
 
-\hline
+___
 
 True story: I applied for MANY PhDs straight out of undergrad and was rejected for all. I even got a couple of interviews, one of which I was down to the last two people and I didn’t get it as the other person had a masters degree and I didn’t, the interview panel had no other feedback, it was gutting as I couldn’t afford a masters degree at the time (no loans in the UK at this point and they were stupid-expensive). I would go to my car and cry each time I didn’t get a position, feeling like a failure and that I was going to be stuck in my crappy dead-end job forever. Then one day, after receiving the latest rejection from a funded MRes, I went to my car to cry and found that actually I just didn’t feel like crying. I realised all I was doing was feeling sorry for myself and that wouldn’t help me get a career. 
 
