@@ -6,9 +6,13 @@ author_profile: true
 ---
 
 
-<h3>The role of DNA methylation in paternal genome elimination in the mealybug, <i>Planococcus citri</i>.</h3>
+<h3>The role of DNA methylation in paternal genome elimination in the mealybug, <i>Planococcus citri</i>.</h3> [Full project details.](https://mooholl.github.io/research/mealybugs)
 
-ADD INTRO HERE.
+![bee](/files/mealybug.jpg){:height="10%" width="10%" .center-image}
+
+Pic: Female mealybug <i>Planococcus citri</i> on a potato sprout.
+
+
 
 <h3>Genomic imprinting in the bumblebee, <i>Bombus terrestris</i>, as a test for Haig's kinship theory.</h3> [Full project details.](https://mooholl.github.io/research/bumblebees)
 
@@ -18,9 +22,8 @@ Pic: Callow (<24hrs old) <i>Bombus terrestris</i> worker.
 
 
 
+<h3>Temporal population epigenetics and adaptive epigenetics in the freshwater crustacean, <i>Daphnia magna</i>.</h3> [Full project details.](https://mooholl.github.io/research/daphnia)
 
-<h3>Temporal population epigenetics and adaptive epigenetics in the freshwater crustacean, <i>Daphnia magna</i>.</h3>
+![bee](/files/juveniles_3days.jpg){:height="15%" width="15%" .center-image}
 
-ADD INTRO HERE.
-
-Related previous work using this system: masters thesis [pdf](https://www.dropbox.com/s/ub3srnksve91tu4/Hollie_Marshall_1493971.pdf?dl=0).
+Pic: Female juvenile <i>Daphnia magna</i> at three days old.
