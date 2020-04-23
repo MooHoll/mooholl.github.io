@@ -27,7 +27,7 @@ If you already know exactly what you want to work on, then that makes this bit a
 
 If you don’t know exactly what you want to work on (this is most people). Then find a few areas that interest you and repeat the above.
 
-Alternatively, if you want to do your PhD in the UK you can wait for the yearly lists of doctoral training partnership projects to come out and search through for something that interests you (www.findaphd.com). These projects usually come out September time and applications are usually needed by the end of the year.
+Alternatively, if you want to do your PhD in the UK you can wait for the yearly lists of doctoral training partnership projects to come out and search through for something that interests you (www.findaphd.com). These projects usually come out November time and applications are usually needed by early January.
 
 <h3>Tip 3: send out the feelers!</h3>
 Now you have your list of labs or short list of advertised projects! Woo! The next best tip I can give is to informally reach out to the person advertising the project, the PI. If the lab isn’t advertising any specific PhD projects you can ask about the possibility of doing a PhD with them, this is particuarly useful if you are applying abroad, the PI will know how to get funding (extra tip: enthusiasm is everything!). If you’re contacting a PI who already has a project advertised, then you can email them asking something specific about the project or asking if you would be able to visit the lab before you apply (if you live close by).
