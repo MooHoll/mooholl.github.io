@@ -14,9 +14,9 @@ I'm writing this post during the COVID-19 lockdown mostly to help myself conside
 
 ---
 
-<h2>What I currently do</h2>
+<h1>What I currently do</h1>
 
-<h3>Work-life balance</h3>
+<h2>Work-life balance</h2>
 Before I go into the specifics of how I manage my time and projects I wanted to touch on the work-life balance idea. Depending on your 'academic-upbringing' you may have wildly different views on what is the 'right' number of hours to be working and when to work etc. 
 
 **I believe a PhD/postdoc/academic job should be treated as, just that, a job.** One of the first things I remember my PhD boss saying to me was to treat the PhD as a job (although he hated being called the boss haha), work 40hrs a week, or thereabouts, and have a life! Whilst I felt he was an excellent example of a work-life balance, I personally struggled with this and I definitely  over-worked (I also had a part-time job alongside the PhD, it's a long story). Since starting my postdoc I have committed myself to the 9-5 and I am definitely  so much more productive and happier. Honestly, it feels like I'm living the dream.
@@ -24,12 +24,12 @@ Before I go into the specifics of how I manage my time and projects I wanted to 
 **Working stupid-hrs a week does not improve your science!** If you burn out or you're constantly drained your science *will* suffer. You need to learn to be efficient and yes, science can mean weekend work / evening work (depending on experiments etc.) but you should claim back the time! Your mental health will benefit and so will your science. Below I will explain how I plan my time to fit my 40hr week, progressing both my research and my career.
 
 
-<h3>The good ol' gantt chart</h3>
+<h2>The good ol' gantt chart</h2>
 Gantt charts are useful tools for planning projects and as an academic you will be expected to create meaningful gantt charts both during your PhD and for grant proposals later in your career. [Here](https://academiac.net/2018/10/23/are-gantt-charts-useful-for-phd-students/) is a nice blog post explaining gantt charts further and why you would use one during your PhD.
 
 I'm currently in my first postdoc position and I've found gantt charts super useful for planning and visualising all of the different projects going on. Below is the current state of my postdoc gantt chart, showing the full two-year contract I am employed on. 
 
-![Gantt Chart.](files/Gannt_chart_example.png){:height="100%" width="100%" .center-image} 
+![Gantt Chart.](files/Gannt_chart_example.jpg){:height="100%" width="100%" .center-image} 
 
 Importantly, I update and review this at the start of each month. Projects change, sometimes things move slower/faster than expected. 
 
@@ -38,7 +38,7 @@ Importantly, I update and review this at the start of each month. Projects chang
 After reading into the deadlines/requirements and time it takes to hear back etc. I realised I would have to SUBMIT an application before the end of the first year of my contract, otherwise I would not meet the requirement of having a minimum of 6months left on my contract when I return from the fellowship. Collaborating with another lab and writing a fellowship, even a small one, is not a quick task. Using a gantt chart has allowed me to plan my time for this alongside my other projects, see above, detailing specific things which must be achieved to reach the goal of submitting an application. 
 
 
-<h3>Bullet journal and weekly lists</h3>
+<h2>Bullet journal and weekly lists</h2>
 I often read that making lists is a way people procrastinate, and sure sometimes that's true. For me, making lists helps me to formulate exactly what I want to achieve and it gives structure to my month/week/day.
 
 Using the gantt chart (above), at the end of each month I plan for the next month. **I review what progress has been made towards the goals of the previous month and adjust and set new goals for the coming month to keep all of my projects progressing.** 
@@ -49,12 +49,11 @@ Using these monthly goals, I create a weekly list of tasks which I want to achie
 
 Making these lists of what you *want* to do and what you *actually* do also helps you to identify the kind of work you are doing, see this [post](https://thesiswhisperer.com/2017/09/20/8260/) on deep/shallow work. Too much shallow work can lead to the feeling of overworking and achieving very little.
 
-<h3>Everyone is different</h3>
+<h2>Everyone is different</h2>
 What works for me might not work for you and that's ok. What I think is the most important thing is to have some kind of strategy to review how you are working and decide if it needs to change or not. Are you achieving what you want to achieve? Why not? what needs to change to start reaching your goals?
 
----
 
-<h2>What might I change?</h2>
+<h1>What might I change?</h1>
 I wrote this post after attending a recent [SULSA](https://www.sulsa.ac.uk) workshop: *staying on track and keeping motivated*. After using this post to consider my ways of working I plan to improve in the following ways:
 
 - check email only 2x per day (start of work and end of work) and only reply to email during an allocated time slot (unless urgent)
@@ -64,9 +63,8 @@ I wrote this post after attending a recent [SULSA](https://www.sulsa.ac.uk) work
   3. Do I have enough time? I.e. does it take away from my current tasks/goals?
 - allocate one session of free writing per week to help put thoughts in order / be creative. Choose a topic, e.g. how can epigenetics be applied to the idea of genetic rescue? Go to a coffee shop away from my current work building with a notebook and pen and just free write. 
 
----
 
-<h2>Productivity pro-tips from others</h2>
+<h1>Productivity pro-tips from others</h1>
 
 Here are a few tips\links I've gathered from others.
 
