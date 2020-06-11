@@ -9,6 +9,8 @@ tags:
 description: 'A practical post about applying to PhD positions.'
 ---
 
+This is a post with some actionable tips on starting to look for PhD positions. 
+
 <h2>Are you sure?</h2>
 
 Firstly, ask yourself why you want to do a PhD. If the answer is something like, **I need it for the career I want or I love doing research**, then happy days you're off to a good start. However, if you answer, **I don't know what else to do or I just want to be a Dr.** then chances are you're going to spend 4-6years (depending on the country) in misery earning pennies whilst your friends climb their respective career ladders. 
@@ -36,7 +38,7 @@ Reaching out in this way shows you’re really serious/interested in working wit
 
 Another extra tip: even if you are financially able, do not fund your own PhD, there are plenty of scholarships and funding routes out there. Securing a funded position looks excellent on your CV (you need every CV boost you can get in the post-PhD job market).
 
-<h3>Tip 4: get every man and his gran to read your application!</h3>
+<h3>Tip 4: get everyone to read your application!</h3>
 Most PhD applications (at least in the UK) require a cover letter and CV. Yes, it’s cringy to big yourself up in the cover letter but you must do it! The judging panel need a reason to pick you. You should also get as many people as you can to give you feedback on your application. Ideally lecturers who themselves take on PhD students each year and people who have successfully got onto a recent PhD program.  
 
 Every cover letter and CV should be specifically tailored for the position you’re applying for. The judging panel will immediately be able to tell if you send in a generic application and it shows you aren’t that interested in that particular position.
