@@ -11,6 +11,9 @@ main:
 
   - title: "Resources"
     url: /resources/
+
+  - title: "Opportunities"
+    url: /opportunities/
         
   - title: "Blog Posts"
     url: /year-archive/
