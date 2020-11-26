@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+**NOTE: these pages are works in progess.**
+
 
 <h3>The role of DNA methylation in paternal genome elimination in the mealybug, <i>Planococcus citri</i>.</h3> [Full project details.](https://mooholl.github.io/research/mealybugs)
 
