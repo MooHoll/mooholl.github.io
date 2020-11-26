@@ -10,7 +10,7 @@ Here you can find various applications, both successful and unsuccessful as well
 <h2>Current CV</h2>
 [Current CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code used to create the CV.
 
-<h2>Grants</h2>
+<h2>Fellowships</h2>
 [LaTeX Template](https://github.com/ferencek/H2020-MSCA-IF-20XY) for part B of a Marie Sklodowska-Curie Actions Independent Fellowship application (2018).
 
 Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/lh6n9v0axucj6i6/Final_proposal.pdf?dl=0) and [feedback](https://www.dropbox.com/s/ypoa6xfgklqv0ih/882722_EpiSpider_ESR.pdf?dl=0), unsuccessful but made the reserve list, 2019.
@@ -27,7 +27,7 @@ University of Edinburgh, Postdoc in Insect Epigenetics [cover letter](https://ww
 
 University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0), successful, 2017.
 
-<h2>Training Courses</h2>
+<h2>Competitive Training Courses</h2>
 Programming for Evolutionary Biology [application](https://www.dropbox.com/s/ggg0hbqssu1kv5e/Hollie_Marshall_Motivation_Letter.pdf?dl=0) and [stipend application](https://www.dropbox.com/s/wcg4fvkyxxq15nq/Hollie_Marshall_Stipend_Application.pdf?dl=0), both successful, 2016.
 
 British Ecological Society Public Engagement Course [application](https://www.dropbox.com/s/71t3he8bxs3fwnu/BES_PubEngage_Training_Application.pdf?dl=0), successful, 2016.
