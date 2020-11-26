@@ -17,9 +17,11 @@ author_profile: true
 
 <h3>2020</h3>
 
-[PRE-PRINT: **Marshall, H.**, Jones, A. R. C., Lonsdale, Z. N. and Mallon, E. B. (2020). Bumblebee worker castes show differences in allele-specific DNA methylation and allele-specific expression. *bioR<sub>X</sub>iv*.](https://doi.org/10.1101/2020.02.07.938423)
+[PRE-PRINT: Bain, S. A.#, **Marshall, H.#** and Ross. L. (2020). Sex-specific expression and DNA methylation in a species with extreme sexual dimorphism and paternal genome elimination. *bioRxiv* ](https://doi.org/10.1101/2020.06.25.171488) # joint first authorship.
 
-[PRE-PRINT: **Marshall, H.**, van Zweden, J. S., Van Geystelen, A., Benaets, K., Wäckers, F., Mallon, E. B. and Wenseleers, T. (2020). Parent of origin gene expression in the bumblebee, *Bombus terrestris*, supports Haig’s kinship theory for the evolution of genomic imprinting. *bioR<sub>X</sub>iv*.](https://doi.org/10.1101/2020.01.17.909168)
+[**Marshall, H.**, van Zweden, J. S., Van Geystelen, A., Benaets, K., Wäckers, F., Mallon, E. B. and Wenseleers, T. (2020). Parent of origin gene expression in the bumblebee, *Bombus terrestris*, supports Haig’s kinship theory for the evolution of genomic imprinting. *Evolution Letters*. Early view: evl3.197.](https://doi.org/10.1002/evl3.197)
+
+[**Marshall, H.**, Jones, A. R. C., Lonsdale, Z. N. and Mallon, E. B. (2020). Bumblebee workers show differences in allele-specific DNA methylation and allele-specific expression. *Genome Biology and Evvolution*. 12 (8); p1471–1481. ](https://doi.org/10.1093/gbe/evaa132)
 
 <h3>2019</h3>
 
