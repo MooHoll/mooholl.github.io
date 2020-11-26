@@ -9,4 +9,10 @@ author_profile: true
 
 ADD INTRO HERE.
 
+ADD YOUTUBE VIDEO.
+
+ADD BLOG POSTS.
+
+NOTE TO SELF: maybe have a summary with pictures, then the outputs i.e. all of above and papers, and then maybe a directions section?
+
 PhD thesis [pdf](https://www.dropbox.com/s/2xljle9lip12t4a/2019MARSHALLHJPhD.pdf?dl=0) and [LaTeX document](https://www.overleaf.com/read/mmkptttrjzpx).
