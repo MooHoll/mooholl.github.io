@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I **strongly** believe in the principles of open science and inclusion, as such I will use this website as a repository for all of my research/academic outputs. This includes things like; applications, papers, grants, outreach materials etc. 
 
-I will also create a section with hints and tips for aspiring scientists. Being a 'first gen' university-goer I understand how impossible reaching a scientific career may seem. I certainly would not have got here without the support/encouragement of some awesome people! 
+ In addition to keeping all of my research in one place this website is also geared towards helping students navigate the world of academia. Academia is nothing like the working world and being a first generation student who worked for a few years before returning to science, I found the learning curve particuarly steep. Hopefully the resources I provide on this website will help demystify the academic system for those wishing to pursue a research career. 
 
 Should you; be interested in collaboration, have an ecological epigenetics question or just want to talk academic careers, you can reach me at hollie_marshall@hotmail.co.uk or on twitter @MooHoll.
 
