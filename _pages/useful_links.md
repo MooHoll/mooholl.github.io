@@ -26,3 +26,6 @@ Fellowships are opportunites to obtain your own funding to carry out an independ
 
 This website lists 100s of fellowship opportunities world wide: [Early Career Researchers Central](https://ecrcentral.org/fundings).
 
+<h2> Other </h2>
+
+Link to a blog post on how to hire a postdoc in a fair and inclusive way [here](http://macromuseum.github.io/application-advice/). (Thanks Cammy for showing me this).
