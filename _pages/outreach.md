@@ -23,4 +23,4 @@ PodhD [Episode 5](https://soundcloud.com/user-711798858/podhd-episode-5) - talki
 
 Evolution Letters Online Summer Talk 2020 - DNA methylation and gene expression differences between reproductive and sterile bumbelbee workers.
 
-{% include youtubePlayer.html id=page.D0ZQMQgx2Dw %}
+{% include youtubePlayer.html id=D0ZQMQgx2Dw %}
