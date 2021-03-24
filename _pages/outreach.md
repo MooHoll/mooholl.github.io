@@ -11,7 +11,7 @@ Here are a bunch of links and files for some outreach stuff I have previously do
 
 A talk about what a research scientist is in academia and how to get this career (UK focused - A-level appropriate).
 
-{% include googleDrivePlayer.html id=page.1j0hzyMpm5l7EENQY6FEbpzYwk-Jmju-A/view %}
+{% include youtubePlayer.html id=page.xxx %}
 
 <h2>Podcasts</h2>
 
