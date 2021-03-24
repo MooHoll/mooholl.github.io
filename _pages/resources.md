@@ -22,6 +22,10 @@ Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.
 
 Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/lh6n9v0axucj6i6/Final_proposal.pdf?dl=0) and [feedback](https://www.dropbox.com/s/ypoa6xfgklqv0ih/882722_EpiSpider_ESR.pdf?dl=0), unsuccessful but made the reserve list, scored 92.2% funding cut-off was 92.6%, 2019.
 
+<h2>Small Funding Pots</h2>
+
+NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/dkcbb9ebnf2klzm/HM_NEOF_ECR_Pilot_Scheme_2021.pdf?dl=0) - made jointly with Dr. Kamil Jaron, decision pending, 2021.
+
 <h2>Training and Travel Grants</h2>
 The Genetics Society Training Grant [application](https://www.dropbox.com/s/9cg5j76rzfrmitw/HM_Genetics_Society_Training_Grant_2020_successful.pdf?dl=0), successful, 2020.
 
