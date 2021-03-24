@@ -5,25 +5,34 @@ permalink: /resources/
 author_profile: true
 ---
 
-Here you can find various applications, both successful and unsuccessful as well as my current CV and blank application templates. 
+Here you can find various applications, both successful and unsuccessful as well as my current CV and other possibly useful things.
 
 <h2>Current CV</h2>
-[Current CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code used to create the CV.
+[Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) and [2-page condensed CV](https://www.overleaf.com/read/rkhfhcgjgktk) on the Overleaf platform. You can also access the LaTeX code used to create the CVs.
 
 <h2>Fellowships</h2>
-[LaTeX Template](https://github.com/ferencek/H2020-MSCA-IF-20XY) for part B of a Marie Sklodowska-Curie Actions Independent Fellowship application (2018).
 
-Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/lh6n9v0axucj6i6/Final_proposal.pdf?dl=0) and [feedback](https://www.dropbox.com/s/ypoa6xfgklqv0ih/882722_EpiSpider_ESR.pdf?dl=0), unsuccessful but made the reserve list, 2019.
+Leverhulme Early Career Researcher Fellowship [application](https://www.dropbox.com/s/czwz0dk3yh1j4py/Leverhulme_ECR_Fellowship_2021.pdf?dl=0) - decision pending, 2021.
 
-<h2>Travel Grants</h2>
-The Genetics Society Travel Grant [application](https://www.dropbox.com/s/pr7k1w52bgetopl/Genetics_application_Hollie.pdf?dl=0), successful, 2018.
+Royal Commission for the Exhibition of 1851 Research Fellowship [application](https://www.dropbox.com/s/c80ihzwfesdqefa/Royal_Commission_of_1851_Research_Fellowship_2021.pdf?dl=0) - decision pending, 2021.
+
+EMBO Postdoctoral Fellowship [application](https://www.dropbox.com/s/0tov0gnwgqny16r/EMBO_long_term_fellowship.pdf?dl=0) - made it to interview - decision pending, 2021.
+
+Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/n06vkmc7im387dx/HM_MSCA_Independent_fellowship_2020_unsuccessful.pdf?dl=0) and [feedback](https://www.dropbox.com/s/r9d162h1bfsptws/HM_MSCA_2020_feedback.pdf?dl=0), unsuccessful, scored 93.4% funding cut-off was 94.4%, 2020.
+
+Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/lh6n9v0axucj6i6/Final_proposal.pdf?dl=0) and [feedback](https://www.dropbox.com/s/ypoa6xfgklqv0ih/882722_EpiSpider_ESR.pdf?dl=0), unsuccessful but made the reserve list, scored 92.2% funding cut-off was 92.6%, 2019.
+
+<h2>Traingin and Travel Grants</h2>
+The Genetics Society Training Grant [application](https://www.dropbox.com/s/9cg5j76rzfrmitw/HM_Genetics_Society_Training_Grant_2020_successful.pdf?dl=0), successful, 2020.
+
+The Genetics Society Junior Scientist Conference Grant [application](https://www.dropbox.com/s/pr7k1w52bgetopl/Genetics_application_Hollie.pdf?dl=0), successful, 2018.
 
 British Ecological Society Conference Grant [application](https://www.dropbox.com/s/vpobeg1eoh694ut/BES%20CONFERENCE%20GRANT%20APPLICATION%20INFO.pdf?dl=0), not applied for in the end, 2017.
 
 <h2>Job Applications</h2>
 Postdoc in insect epigenetics and pesticide exposure [cover letter](https://www.dropbox.com/s/bply7yu3qvtuq6z/exeter_app.pdf?dl=0), not applied for in the end, 2019.
 
-University of Edinburgh, Postdoc in Insect Epigenetics [cover letter](https://www.dropbox.com/s/ktpmn0b8x3nbajj/Hollie_Marshall_Cover_Letter.pdf?dl=0), [CV](https://www.dropbox.com/s/mcru49szf509sde/Hollie_Marshall_CV.pdf?dl=0) and [interview presentation](https://www.dropbox.com/s/ggn37uytowu4q1w/Interview_Edinburgh.pdf?dl=0), successful, 2019.
+University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction [cover letter](https://www.dropbox.com/s/ktpmn0b8x3nbajj/Hollie_Marshall_Cover_Letter.pdf?dl=0), [CV](https://www.dropbox.com/s/mcru49szf509sde/Hollie_Marshall_CV.pdf?dl=0) and [interview presentation](https://www.dropbox.com/s/ggn37uytowu4q1w/Interview_Edinburgh.pdf?dl=0), successful, 2019.
 
 University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0), successful, 2017.
 
