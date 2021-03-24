@@ -19,7 +19,11 @@ For most up to date papers see my [Google Scholar](https://scholar.google.com/ci
 
 <h2>Pre-prints</h2>
 
-Bain, S. A.#, **Marshall, H.#** and Ross. L. (2020). Sex-specific expression and DNA methylation in a species with extreme sexual dimorphism and paternal genome elimination. *bioRxiv*. **# joint first authorship.** [Paper Access.](https://doi.org/10.1101/2020.06.25.171488)
+---
+
+<h2>2021</h2>
+
+Bain, S. A.#, **Marshall, H.#**, de la Filia, A. G., Laetsch, D. R., Husnik, F. and Ross. L. (2021). Sex-specific expression and DNA methylation in a species with extreme sexual dimorphism and paternal genome elimination. *Molecular Ecology*. 2021(00), p1–17 **# joint first authorship.** [Paper Access.](https://onlinelibrary.wiley.com/doi/10.1111/mec.15842)
 
 <h2>2020</h2>
 
