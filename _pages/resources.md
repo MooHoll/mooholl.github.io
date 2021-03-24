@@ -10,7 +10,7 @@ Here you can find various applications, both successful and unsuccessful as well
 <h2>Current CV</h2>
 [Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) and [2-page condensed CV](https://www.overleaf.com/read/rkhfhcgjgktk) on the Overleaf platform. You can also access the LaTeX code used to create the CVs.
 
-<h2>Fellowships</h2>
+<h2>Early Career Fellowships</h2>
 
 Leverhulme Early Career Researcher Fellowship [application](https://www.dropbox.com/s/czwz0dk3yh1j4py/Leverhulme_ECR_Fellowship_2021.pdf?dl=0) - decision pending, 2021.
 
@@ -22,7 +22,7 @@ Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.
 
 Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/lh6n9v0axucj6i6/Final_proposal.pdf?dl=0) and [feedback](https://www.dropbox.com/s/ypoa6xfgklqv0ih/882722_EpiSpider_ESR.pdf?dl=0), unsuccessful but made the reserve list, scored 92.2% funding cut-off was 92.6%, 2019.
 
-<h2>Traingin and Travel Grants</h2>
+<h2>Training and Travel Grants</h2>
 The Genetics Society Training Grant [application](https://www.dropbox.com/s/9cg5j76rzfrmitw/HM_Genetics_Society_Training_Grant_2020_successful.pdf?dl=0), successful, 2020.
 
 The Genetics Society Junior Scientist Conference Grant [application](https://www.dropbox.com/s/pr7k1w52bgetopl/Genetics_application_Hollie.pdf?dl=0), successful, 2018.

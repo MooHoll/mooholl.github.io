@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Undergraduate Summer Placement</h2>
 
-The Genetics Society offer funded summer placements for students usually between their 2nd and 3rd years of study. See full details [here](https://genetics.org.uk/grants/summer-studentships/). If you would be interested in carrying out a summer project with me please contact me before the end of January (application deadline to the Genetics Society for funding is March).
+The Genetics Society offer funded summer placements for UK students usually between their 2nd and 3rd years of study. See full details [here](https://genetics.org.uk/grants/summer-studentships/). If you would be interested in carrying out a summer project with me please contact me before the end of January (application deadline to the Genetics Society for funding is March).
 
 <h2>Undergraduate and Masters Projects: University of Edinburgh</h2>
 
