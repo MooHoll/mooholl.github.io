@@ -24,9 +24,9 @@ The tips given here are applicable to literally anything and everything you writ
 
 **Tip 3.** Related to tip two, you should add a description of any pictures you include in your writing. Again, this is so people with sight disabilities can know what the picture is showing. 
 
-Tip 4. If using videos be sure to add captions, this ensures people with hearing disabilities can access the content.
+**Tip 4.** If using videos be sure to add captions, this ensures people with hearing disabilities can access the content.
 
-Tip 5. If images/videos in your writing include people, be aware of who you are representing and who you are excluding. For example, if a picture of scientists shows only older white men this can indicate that only these specific people can be scientists. 
+**Tip 5.** If images/videos in your writing include people, be aware of who you are representing and who you are excluding. For example, if a picture of scientists shows only older white men this can indicate that only these specific people can be scientists. 
 
 **Tip 6.** Use ‘people first language’ this means not defining someone by a given trait. For example, rather than writing a ‘disabled person’ you should write a ‘person with a disability’. This tip is not always applicable, see tip 7.
 
