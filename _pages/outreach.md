@@ -7,17 +7,18 @@ author_profile: true
 
 Here are a bunch of links and files for some outreach stuff I have previously done. Please feel free to share and reuse.
 
+<h2>Research Talks</h2>
+
+[Doctoral Inagural Lecture: University of Leicester](https://www.youtube.com/watch?v=mK8orMPBmFk) - Imprinted genes in bumblebees may explain why workers commit treason - 2021.
+
+[Evolution Letters Online Summer Talk](https://www.youtube.com/watch?v=D0ZQMQgx2Dw) - DNA methylation and gene expression differences between reproductive and sterile bumbelbee workers - 2020.
+
 
 <h2>Podcasts</h2>
 
 The Women in Ecology and Evolution Podcast [Episode: New Year New W.E.E.](https://www.theweepodcast.org/podcast/episode/480d248f/new-year-new-wee) - talking more up to date about genomic imprinting in bumblebees - 2020.
 
 PodhD [Episode 5](https://soundcloud.com/user-711798858/podhd-episode-5) - talking about genomic imprinting in bumblebees - 2017.
-
-
-<h2>Research Talks</h2>
-
-[Evolution Letters Online Summer Talk](https://www.youtube.com/watch?v=D0ZQMQgx2Dw) - DNA methylation and gene expression differences between reproductive and sterile bumbelbee workers - 2020.
 
 
 <h2>School Level Talks</h2>
