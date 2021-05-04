@@ -1,12 +1,12 @@
 ---
 title: 'How to Write in an Inclusive Way.'
-date: 2020-05-12
-permalink: /posts/2020/04/my_work_routine/
+date: 2021-05-03
+permalink: /posts/2021/05/inclusive_writing/
 tags:
   - students
   - academic careers
   - phd
-  - productivity
+  - EDI
 description: 'Inclusive writing tips.'
 ---
 
