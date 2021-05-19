@@ -12,9 +12,9 @@ Here you can find various applications, both successful and unsuccessful as well
 
 <h2>Early Career Fellowships</h2>
 
-Leverhulme Early Career Researcher Fellowship [application](https://www.dropbox.com/s/czwz0dk3yh1j4py/Leverhulme_ECR_Fellowship_2021.pdf?dl=0) - decision pending - 2021.
-
 EMBO Postdoctoral Fellowship [application](https://www.dropbox.com/s/0tov0gnwgqny16r/EMBO_long_term_fellowship.pdf?dl=0) - made it to interview - decision pending, 2021.
+
+Leverhulme Early Career Researcher Fellowship [application](https://www.dropbox.com/s/czwz0dk3yh1j4py/Leverhulme_ECR_Fellowship_2021.pdf?dl=0) - made it to shortlist - unsuccessful - 2021.
 
 Royal Commission for the Exhibition of 1851 Research Fellowship [application](https://www.dropbox.com/s/c80ihzwfesdqefa/Royal_Commission_of_1851_Research_Fellowship_2021.pdf?dl=0) - unsuccessful - 2021.
 
