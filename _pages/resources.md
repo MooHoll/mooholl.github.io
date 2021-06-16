@@ -22,6 +22,17 @@ Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.
 
 Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/lh6n9v0axucj6i6/Final_proposal.pdf?dl=0) and [feedback](https://www.dropbox.com/s/ypoa6xfgklqv0ih/882722_EpiSpider_ESR.pdf?dl=0) - unsuccessful but made the reserve list - scored 92.2% funding cut-off was 92.6% - 2019.
 
+
+<h2>Job Applications</h2>
+
+University of Leicester, Postdoc in Bumblebee Epignetics [cover letter](https://www.dropbox.com/s/6fd938nx352jueu/Leicester_cover_letter.pdf?dl=0), [CV](https://www.dropbox.com/s/ohzrym5tl8a9yq9/CV_Leicester_2021.pdf?dl=0), [interview presentation](https://www.dropbox.com/s/j1fiys04o5t70n0/Leicester_job_talk.pptx?dl=0) - successful - 2021.
+
+Postdoc in insect epigenetics and pesticide exposure [cover letter](https://www.dropbox.com/s/bply7yu3qvtuq6z/exeter_app.pdf?dl=0) - not applied for in the end - 2019.
+
+University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction [cover letter](https://www.dropbox.com/s/ktpmn0b8x3nbajj/Hollie_Marshall_Cover_Letter.pdf?dl=0), [CV](https://www.dropbox.com/s/mcru49szf509sde/Hollie_Marshall_CV.pdf?dl=0) and [interview presentation](https://www.dropbox.com/s/ggn37uytowu4q1w/Interview_Edinburgh.pdf?dl=0) - successful - 2019.
+
+University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0) - successful - 2017.
+
 <h2>Small Funding Pots</h2>
 
 NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/dkcbb9ebnf2klzm/HM_NEOF_ECR_Pilot_Scheme_2021.pdf?dl=0) - made jointly with Dr. Kamil Jaron - successful - 2021.
@@ -33,12 +44,6 @@ The Genetics Society Junior Scientist Conference Grant [application](https://www
 
 British Ecological Society Conference Grant [application](https://www.dropbox.com/s/vpobeg1eoh694ut/BES%20CONFERENCE%20GRANT%20APPLICATION%20INFO.pdf?dl=0) - not applied for in the end - 2017.
 
-<h2>Job Applications</h2>
-Postdoc in insect epigenetics and pesticide exposure [cover letter](https://www.dropbox.com/s/bply7yu3qvtuq6z/exeter_app.pdf?dl=0) - not applied for in the end - 2019.
-
-University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction [cover letter](https://www.dropbox.com/s/ktpmn0b8x3nbajj/Hollie_Marshall_Cover_Letter.pdf?dl=0), [CV](https://www.dropbox.com/s/mcru49szf509sde/Hollie_Marshall_CV.pdf?dl=0) and [interview presentation](https://www.dropbox.com/s/ggn37uytowu4q1w/Interview_Edinburgh.pdf?dl=0) - successful - 2019.
-
-University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0) - successful - 2017.
 
 <h2>Competitive Training Courses</h2>
 Programming for Evolutionary Biology [application](https://www.dropbox.com/s/ggg0hbqssu1kv5e/Hollie_Marshall_Motivation_Letter.pdf?dl=0) and [stipend application](https://www.dropbox.com/s/wcg4fvkyxxq15nq/Hollie_Marshall_Stipend_Application.pdf?dl=0) - both successful - 2016.
