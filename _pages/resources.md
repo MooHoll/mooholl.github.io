@@ -8,7 +8,7 @@ author_profile: true
 Here you can find various applications, both successful and unsuccessful as well as my current CV and other possibly useful things.
 
 <h2>Current CV</h2>
-[Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) and [2-page condensed CV](https://www.overleaf.com/read/rkhfhcgjgktk) on the Overleaf platform. You can also access the LaTeX code used to create the CVs.
+[Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code.
 
 <h2>Early Career Fellowships</h2>
 
@@ -34,6 +34,7 @@ University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction [cover l
 University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0) - successful - 2017.
 
 <h2>Small Funding Pots</h2>
+NERC Discipline Hopping Small Grants [application](https://www.dropbox.com/s/jc78ae1pxq0rzsv/HM_Application_form.pdf?dl=0) and [project summary](https://www.dropbox.com/s/603bte4v7731cbu/HM_2page_summary.pdf?dl=0) - made jointly with Dr. Katie Reilly - successful - 2022.
 
 NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/dkcbb9ebnf2klzm/HM_NEOF_ECR_Pilot_Scheme_2021.pdf?dl=0) - made jointly with Dr. Kamil Jaron - successful - 2021.
 
@@ -68,8 +69,6 @@ Conference sponsorship [letter](https://www.dropbox.com/s/0j2i3v1r1ccudxi/royal_
 Fellowship to the Higher Education Academy [application](https://www.dropbox.com/s/v74jvfsfi7kcxiz/H%20Marshall%20FHEA1.pdf?dl=0) - successful - 2019.
 
 British Ecological Society Public Engagement Working Group Student Representative [cover letter](https://www.dropbox.com/s/sgxb5lrxq3fwl2u/BES_Rep_Cover_Letter.pdf?dl=0) and [CV](https://www.dropbox.com/s/g6418z79giqr5wu/BES_Rep_CV.pdf?dl=0) - unsuccessful - 2016(?).
-
-Royal Entomoglocical Society Student Award 2015 [article](https://www.dropbox.com/s/b4gs688sz5zsaxm/Hollie_Marshall_RES_Application.pdf?dl=0) - unsuccessful - 2015.
 
 University of Birmingham Masters Degree [cover letter](https://www.dropbox.com/s/x3mn1q22hypogb7/Masters_Cover_Letter.pdf?dl=0) - successful - 2013.
 
