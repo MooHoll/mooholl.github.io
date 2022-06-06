@@ -21,6 +21,8 @@ A [talk](https://drive.google.com/file/d/1j0hzyMpm5l7EENQY6FEbpzYwk-Jmju-A/view?
 
 <h2>Podcasts</h2>
 
+The Women in Ecology and Evolution Podcast [Episode: The Case for Open Science](https://www.theweepodcast.org/podcast/episode/796644a1/the-case-for-open-science) - panel chat about open science - 2022.
+
 The Women in Ecology and Evolution Podcast [Episode: New Year New W.E.E.](https://www.theweepodcast.org/podcast/episode/480d248f/new-year-new-wee) - talking more up to date about genomic imprinting in bumblebees - 2020.
 
 PodhD [Episode 5](https://soundcloud.com/user-711798858/podhd-episode-5) - talking about genomic imprinting in bumblebees - 2017.
