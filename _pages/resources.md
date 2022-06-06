@@ -10,6 +10,13 @@ Here you can find various applications, both successful and unsuccessful as well
 <h2>Current CV</h2>
 [Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code.
 
+<h2>Funding</h2>
+NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/zo0qvdhu9m4gsbz/NEOF_2022.pdf?dl=0) - made jointly with Dr. Katie Reilly - successful - 2022.
+
+NERC Discipline Hopping Small Grants [application](https://www.dropbox.com/s/jc78ae1pxq0rzsv/HM_Application_form.pdf?dl=0) and [project summary](https://www.dropbox.com/s/603bte4v7731cbu/HM_2page_summary.pdf?dl=0) - made jointly with Dr. Katie Reilly - successful - 2022.
+
+NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/dkcbb9ebnf2klzm/HM_NEOF_ECR_Pilot_Scheme_2021.pdf?dl=0) - made jointly with Dr. Kamil Jaron - successful - 2021.
+
 <h2>Early Career Fellowships</h2>
 
 EMBO Postdoctoral Fellowship [application](https://www.dropbox.com/s/0tov0gnwgqny16r/EMBO_long_term_fellowship.pdf?dl=0) - made it to final short list (interview)- unsuccessful, 2021.
@@ -33,10 +40,6 @@ University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction [cover l
 
 University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0) - successful - 2017.
 
-<h2>Small Funding Pots</h2>
-NERC Discipline Hopping Small Grants [application](https://www.dropbox.com/s/jc78ae1pxq0rzsv/HM_Application_form.pdf?dl=0) and [project summary](https://www.dropbox.com/s/603bte4v7731cbu/HM_2page_summary.pdf?dl=0) - made jointly with Dr. Katie Reilly - successful - 2022.
-
-NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/dkcbb9ebnf2klzm/HM_NEOF_ECR_Pilot_Scheme_2021.pdf?dl=0) - made jointly with Dr. Kamil Jaron - successful - 2021.
 
 <h2>Training and Travel Grants</h2>
 The Genetics Society Training Grant [application](https://www.dropbox.com/s/9cg5j76rzfrmitw/HM_Genetics_Society_Training_Grant_2020_successful.pdf?dl=0) - successful - 2020.
