@@ -10,16 +10,25 @@ Here you can find various applications, both successful and unsuccessful as well
 <h2>Current CV</h2>
 [Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code.
 
-<h2>Funding</h2>
+<h2>Small Funding Pots</h2>
+ESEB Progress Meeting in Evolutionary Biology [application](https://www.dropbox.com/s/a2o2c94yhyq5onw/Epi_in_EcoEvo.pdf?dl=0) - pending - 2023.
+
+Fish Society of the British Isles, Small Research Grant [form](https://www.dropbox.com/s/l7sy7iiqkguqcw0/FSBI_form.pdf?dl=0), [budget](https://www.dropbox.com/s/ds995ok8m5qm7yk/FSBI_Research-Grant-Budget-Hollie-Marshall.pdf?dl=0), [CV](https://www.dropbox.com/s/338et46u8d59zzq/FSBI_CV-Hollie-Marshall.pdf?dl=0) - pending - 2023.
+
 NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/zo0qvdhu9m4gsbz/NEOF_2022.pdf?dl=0) - made jointly with Dr. Katie Reilly - successful - 2022.
 
 NERC Discipline Hopping Small Grants [application](https://www.dropbox.com/s/jc78ae1pxq0rzsv/HM_Application_form.pdf?dl=0) and [project summary](https://www.dropbox.com/s/603bte4v7731cbu/HM_2page_summary.pdf?dl=0) - made jointly with Dr. Katie Reilly - successful - 2022.
 
 NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/dkcbb9ebnf2klzm/HM_NEOF_ECR_Pilot_Scheme_2021.pdf?dl=0) - made jointly with Dr. Kamil Jaron - successful - 2021.
 
+
 <h2>Early Career Fellowships</h2>
 
-EMBO Postdoctoral Fellowship [application](https://www.dropbox.com/s/0tov0gnwgqny16r/EMBO_long_term_fellowship.pdf?dl=0) - made it to final short list (interview)- unsuccessful, 2021.
+L'Oréal-UNESCO for Women in Science UK [application form](https://www.dropbox.com/s/pdt8oauwyjxeni4/Loreal_form.pdf?dl=0), [candidate statement](https://www.dropbox.com/s/x74nwmnaubuqmwo/Loreal_Candidate_statement.pdf?dl=0), [research proposal](https://www.dropbox.com/s/2scxerethp5y6d9/Loreal_Research_proposal.pdf?dl=0) - pending - 2023.
+
+NERC Independent Fellowship [full application](https://www.dropbox.com/s/14zva7k0kshzc86/jes-2726477.pdf?dl=0) - pending - 2023.
+
+EMBO Postdoctoral Fellowship [application](https://www.dropbox.com/s/0tov0gnwgqny16r/EMBO_long_term_fellowship.pdf?dl=0) - made it to final short list (interview)- unsuccessful - 2021.
 
 Leverhulme Early Career Researcher Fellowship [application](https://www.dropbox.com/s/czwz0dk3yh1j4py/Leverhulme_ECR_Fellowship_2021.pdf?dl=0) - made it to final shortlist - unsuccessful - 2021.
 
@@ -31,6 +40,8 @@ Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.
 
 
 <h2>Job Applications</h2>
+
+University of Aberdeen, Interdisciplinary Fellowship [cover letter](https://www.dropbox.com/s/a4pr2t5eo4sj5kt/Cover_letter_Hollie_Marshall.pdf?dl=0), [CV](https://www.dropbox.com/s/7owdtuwg47d7gtw/CV_Hollie_Marshall.pdf?dl=0) - unsuccessful - 2022.
 
 University of Leicester, Postdoc in Bumblebee Epignetics [cover letter](https://www.dropbox.com/s/6fd938nx352jueu/Leicester_cover_letter.pdf?dl=0), [CV](https://www.dropbox.com/s/ohzrym5tl8a9yq9/CV_Leicester_2021.pdf?dl=0), [interview presentation](https://www.dropbox.com/s/j1fiys04o5t70n0/Leicester_job_talk.pptx?dl=0) - successful - 2021.
 
