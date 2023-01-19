@@ -15,10 +15,10 @@ I am broadly interested in the role of epigenomic mechanisms in evolutionary pro
 - The role of DNA methylation in paternal genome elimination in mealybugs.
 - Parent-of-origin gene expression in head and body lice.
 
-<h3>Adaptive Epigeneitcs</h3>
+<h3>Adaptive Epigenetics</h3>
 
 - Temporal population epigenetics in a freshwater crustacean.
-- Epigenetic responses to pollutant exposure, e.g. pesticides, microplatics.
+- Epigenetic responses to pollutant exposure, e.g. pesticides, microplastics.
 - The effects of hatchery rearing on UK freshwater coarse fish.
 - The relationship between the genome and epigenome: epigenetic mediated mutation.
 
