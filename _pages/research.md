@@ -5,15 +5,29 @@ permalink: /research/
 author_profile: true
 ---
 
-**NOTE: these pages are works in progess.**
+I am broadly interested in the role of epigenomic mechanisms in evolutionary processes. Primarily my research involves experimental evolution and the analysis of sequencing data, with a focus on arthropod species. However, I have plans to engage in some fieldwork studies of natural populations in the near future. Specifically, I plan to examine the role of epigenetics in species adaptation to climate change and anthropogenic effects.
+
+<h2>A rough list of some of the things I work on:</h2>
+
+<h3>Genomic Imprinting</h3>
+
+- Gene imprinting in bumblebees, as a test for Haig's kinship theory.
+- The role of DNA methylation in paternal genome elimination in mealybugs.
+- Parent-of-origin gene expression in head and body lice.
+
+<h3>Adaptive Epigeneitcs</h3>
+
+- Temporal population epigenetics in a freshwater crustacean.
+- Epigenetic responses to pollutant exposure, e.g. pesticides, microplatics.
+- The effects of hatchery rearing on UK freshwater coarse fish.
+- The relationship between the genome and epigenome: epigenetic mediated mutation.
+
+<h3>Other</3>
+- Sex-specific DNA methylation in an invasive crop pest species.
+- The relationship between histone acetylation and DNA methylation in parasitic wasps.
 
 
-<h3>The role of DNA methylation in paternal genome elimination in the mealybug, <i>Planococcus citri</i>.</h3> [Full project details.](https://mooholl.github.io/research/mealybugs)
+For a summary of this work, see my [Google Scholar page](https://scholar.google.com/citations?user=qptVoSMAAAAJ&hl=en).
 
-___
 
-<h3>Genomic imprinting in the bumblebee, <i>Bombus terrestris</i>, as a test for Haig's kinship theory.</h3> [Full project details.](https://mooholl.github.io/research/bumblebees)
 
-___
-
-<h3>Temporal population epigenetics and adaptive epigenetics in the freshwater crustacean, <i>Daphnia magna</i>.</h3> [Full project details.](https://mooholl.github.io/research/daphnia)
