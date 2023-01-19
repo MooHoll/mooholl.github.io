@@ -22,7 +22,8 @@ I am broadly interested in the role of epigenomic mechanisms in evolutionary pro
 - The effects of hatchery rearing on UK freshwater coarse fish.
 - The relationship between the genome and epigenome: epigenetic mediated mutation.
 
-<h3>Other</3>
+<h3>Other</h3>
+
 - Sex-specific DNA methylation in an invasive crop pest species.
 - The relationship between histone acetylation and DNA methylation in parasitic wasps.
 
