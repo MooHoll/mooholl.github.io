@@ -11,7 +11,7 @@ Here you can find various applications, both successful and unsuccessful as well
 [Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code.
 
 <h2>Small Funding Pots</h2>
-ESEB Progress Meeting in Evolutionary Biology [application](https://www.dropbox.com/s/a2o2c94yhyq5onw/Epi_in_EcoEvo.pdf?dl=0) - pending - 2023.
+ESEB Progress Meeting in Evolutionary Biology [application](https://www.dropbox.com/s/a2o2c94yhyq5onw/Epi_in_EcoEvo.pdf?dl=0) - unsuccessful, second choice however - 2023.
 
 Fish Society of the British Isles, Small Research Grant [form](https://www.dropbox.com/s/l7sy7iiqkguqcw0/FSBI_form.pdf?dl=0), [budget](https://www.dropbox.com/s/ds995ok8m5qm7yk/FSBI_Research-Grant-Budget-Hollie-Marshall.pdf?dl=0), [CV](https://www.dropbox.com/s/338et46u8d59zzq/FSBI_CV-Hollie-Marshall.pdf?dl=0) - pending - 2023.
 
