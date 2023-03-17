@@ -32,7 +32,7 @@ NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dr
 
 Leverhulme Early Career Research Fellowship [application](https://www.dropbox.com/s/4o0ti9ykfb2vn22/Leverhulme_2023_dedacted.pdf?dl=0) - pending - 2023.
 
-L'Oréal-UNESCO for Women in Science UK [application form](https://www.dropbox.com/s/pdt8oauwyjxeni4/Loreal_form.pdf?dl=0), [candidate statement](https://www.dropbox.com/s/x74nwmnaubuqmwo/Loreal_Candidate_statement.pdf?dl=0), [research proposal](https://www.dropbox.com/s/2scxerethp5y6d9/Loreal_Research_proposal.pdf?dl=0) - pending - 2023.
+L'Oréal-UNESCO for Women in Science UK [application form](https://www.dropbox.com/s/pdt8oauwyjxeni4/Loreal_form.pdf?dl=0), [candidate statement](https://www.dropbox.com/s/x74nwmnaubuqmwo/Loreal_Candidate_statement.pdf?dl=0), [research proposal](https://www.dropbox.com/s/2scxerethp5y6d9/Loreal_Research_proposal.pdf?dl=0) - unsuccessful - 2023.
 
 NERC Independent Fellowship [full application](https://www.dropbox.com/s/14zva7k0kshzc86/jes-2726477.pdf?dl=0) and [feedback](https://www.dropbox.com/s/o9xo3aik1e8m9ov/NERC_feedback_2022.pdf?dl=0) - unsuccesful - 2023.
 
