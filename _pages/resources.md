@@ -55,7 +55,7 @@ University of Leicester, Postdoc in Bumblebee Epignetics [cover letter](https://
 
 Postdoc in insect epigenetics and pesticide exposure [cover letter](https://www.dropbox.com/s/bply7yu3qvtuq6z/exeter_app.pdf?dl=0) - not applied for in the end - 2019.
 
-University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction [cover letter](https://www.dropbox.com/s/ktpmn0b8x3nbajj/Hollie_Marshall_Cover_Letter.pdf?dl=0), [CV](https://www.dropbox.com/s/mcru49szf509sde/Hollie_Marshall_CV.pdf?dl=0) and [interview presentation](https://www.dropbox.com/s/ggn37uytowu4q1w/Interview_Edinburgh.pdf?dl=0) - successful - 2019.
+University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction [cover letter](https://www.dropbox.com/s/ktpmn0b8x3nbajj/Hollie_Marshall_Cover_Letter.pdf?dl=0), [CV](https://www.dropbox.com/s/0ztj72ji82eb68h/Edinburgh_CV.pdf?dl=0) and [interview presentation](https://www.dropbox.com/s/ggn37uytowu4q1w/Interview_Edinburgh.pdf?dl=0) - successful - 2019.
 
 University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0) - successful - 2017.
 
