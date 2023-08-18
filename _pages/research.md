@@ -5,7 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-I am broadly interested in the role of epigenomic mechanisms in evolutionary processes. Primarily my research involves experimental evolution and the analysis of sequencing data, with a focus on arthropod species. However, I have plans to engage in some fieldwork studies of natural populations in the near future. Specifically, I plan to examine the role of epigenetics in species adaptation to climate change and anthropogenic effects.
+**I am broadly interested in the role of epigenomic mechanisms in evolutionary processes.**
+
+Primarily my research involves experimental evolution and the analysis of sequencing data, with a focus on arthropod species. However, I have plans to engage in some fieldwork studies of natural populations in the near future. Specifically, my focus is on the role of transgenerational epigenomic inheritance in species adaptation.
+
+![Overview.](files/overview.jpg){:height="75%" width="75%" .center-image} 
+
 
 <h2>A rough list of some of the things I work on:</h2>
 
