@@ -9,8 +9,7 @@ author_profile: true
 
 Primarily my research involves experimental evolution and the analysis of sequencing data, with a focus on arthropod species. However, I have plans to engage in some fieldwork studies of natural populations in the near future. Specifically, my focus is on the role of transgenerational epigenomic inheritance in species adaptation.
 
-![Overview.](files/overview.jpg){:height="75%" width="75%" .center-image} 
-
+![](../files/overview.jpg){:height="75%" width="75%" .center-image} 
 
 <h2>A rough list of some of the things I work on:</h2>
 
