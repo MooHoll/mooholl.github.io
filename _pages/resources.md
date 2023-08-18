@@ -47,7 +47,7 @@ Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.
 Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/lh6n9v0axucj6i6/Final_proposal.pdf?dl=0) and [feedback](https://www.dropbox.com/s/ypoa6xfgklqv0ih/882722_EpiSpider_ESR.pdf?dl=0) - unsuccessful but made the reserve list - scored 92.2% funding cut-off was 92.6% - 2019.
 
 
-<h2>Job Applications</h2>
+<h2>Postdoc Applications</h2>
 
 University of Aberdeen, Interdisciplinary Fellowship [cover letter](https://www.dropbox.com/s/a4pr2t5eo4sj5kt/Cover_letter_Hollie_Marshall.pdf?dl=0), [CV](https://www.dropbox.com/s/7owdtuwg47d7gtw/CV_Hollie_Marshall.pdf?dl=0) - unsuccessful - 2022.
 
@@ -56,8 +56,6 @@ University of Leicester, Postdoc in Bumblebee Epignetics [cover letter](https://
 Postdoc in insect epigenetics and pesticide exposure [cover letter](https://www.dropbox.com/s/bply7yu3qvtuq6z/exeter_app.pdf?dl=0) - not applied for in the end - 2019.
 
 University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction [cover letter](https://www.dropbox.com/s/ktpmn0b8x3nbajj/Hollie_Marshall_Cover_Letter.pdf?dl=0), [CV](https://www.dropbox.com/s/0ztj72ji82eb68h/Edinburgh_CV.pdf?dl=0) and [interview presentation](https://www.dropbox.com/s/ggn37uytowu4q1w/Interview_Edinburgh.pdf?dl=0) - **successful** - 2019.
-
-University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0) - **successful** - 2017.
 
 
 <h2>Training and Travel Grants</h2>
@@ -95,6 +93,8 @@ Conference sponsorship [letter](https://www.dropbox.com/s/0j2i3v1r1ccudxi/royal_
 L'Oréal-UNESCO for Women in Science UK [application form](https://www.dropbox.com/s/pdt8oauwyjxeni4/Loreal_form.pdf?dl=0), [candidate statement](https://www.dropbox.com/s/x74nwmnaubuqmwo/Loreal_Candidate_statement.pdf?dl=0), [research proposal](https://www.dropbox.com/s/2scxerethp5y6d9/Loreal_Research_proposal.pdf?dl=0) - unsuccessful - 2023.
 
 Fellowship to the Higher Education Academy [application](https://www.dropbox.com/s/v74jvfsfi7kcxiz/H%20Marshall%20FHEA1.pdf?dl=0) - **successful** - 2019.
+
+University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0) - **successful** - 2017.
 
 British Ecological Society Public Engagement Working Group Student Representative [cover letter](https://www.dropbox.com/s/sgxb5lrxq3fwl2u/BES_Rep_Cover_Letter.pdf?dl=0) and [CV](https://www.dropbox.com/s/g6418z79giqr5wu/BES_Rep_CV.pdf?dl=0) - unsuccessful - 2016(?).
 
