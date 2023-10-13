@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![research overview](files/research_overview){.center-image} 
+![research overview](files/research_overview){:height="10%" width="10%" .center-image} 
 
 ---

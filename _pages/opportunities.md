@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Postdocs</h2>
-I don't have any advertised projects currently but I would be happy to support external fellowships.\ 
+I don't have any advertised projects currently but I would be happy to support external fellowships.\
 Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowships.
 
 <h2>PhD Students</h2>
