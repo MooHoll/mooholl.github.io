@@ -8,11 +8,10 @@ author_profile: true
 Here you can find various applications, both successful and unsuccessful as well as my current CV and other possibly useful things.
 
 <details>
-<summary><h2>Current CV</h2>
-</summary>
-[Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code. test again
+  <summary><h2>Current CV</h2></summary>
+  [Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code. testing2
 
-[Condensed CV](https://www.overleaf.com/read/dqxkdyfxfqsj).
+  [Condensed CV](https://www.overleaf.com/read/dqxkdyfxfqsj).
 </details>
 
 <h2>Small funding Pots</h2>
