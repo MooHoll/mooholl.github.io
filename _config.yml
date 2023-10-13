@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Hollie Marshall"
+title                    : "Marshall Lab"
 title_separator          : " "
-name                     : &name "Dr. Hollie Marshall"
+name                     : &name "Marshall Lab"
 description              : &description ""
-url                      : https://mooholl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marshalllab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mooholl/mooholl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Hollie Marshall"
+  name             : "Marshall Lab"
   avatar           : "me.jpg"
-  bio              : "I am an ecological / evolutionary epigeneticist, specialising in arthropod species. My primary interest is in environmentally induced transgenerational epigenetic inheritance."
+  bio              : "Ecological / evolutionary epigenetics in arthropod species."
   location         : "University of Leicester, UK."
   employer         :
   pubmed           :
@@ -269,6 +269,14 @@ defaults:
   - scope:
       path: ""
       type: outreach
+    values:
+      layout: single
+      author_profile: true
+      share: true
+    # _labstuff
+  - scope:
+      path: ""
+      type: labstuff
     values:
       layout: single
       author_profile: true
