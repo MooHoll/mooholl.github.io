@@ -10,28 +10,30 @@ Here you can find various applications, both successful and unsuccessful as well
 <details>
   <summary> <b><font size="+1">Current CV</font></b> </summary>
 
-  <p><a href="https://www.overleaf.com/read/xyhzbnmtmppp">Full CV</a> on the Overleaf platform. You can also access the LaTeX code. testing5</p>
+  <p><a href="https://www.overleaf.com/read/xyhzbnmtmppp">Full CV</a> on the Overleaf platform. You can also access the LaTeX code.</p>
 
-  <p>[Condensed CV](https://www.overleaf.com/read/dqxkdyfxfqsj).</p>
-  
+  <p><a href="https://www.overleaf.com/read/dqxkdyfxfqsj">Condensed CV.</a></p>
+
 </details>
 
-<h2>Small funding Pots</h2>
+<details>
+  <summary> <b><font size="+1">Small funding pots - Postdoc level</font></b> </summary>
 
-BBSRC Impact Accelerator [application](https://www.dropbox.com/s/kj1od9dt66w1odi/BBSRC%20IAA%20application%20form%20PoC%20Hollie%20Marshall.pdf?dl=0) - **successful** - 2023. 
+  <p>BBSRC Impact Accelerator <a href="https://www.dropbox.com/s/kj1od9dt66w1odi/BBSRC%20IAA%20application%20form%20PoC%20Hollie%20Marshall.pdf?dl=0">application</a> - **successful** - 2023.</p>
 
-British Ecological Society, Large Research Grant [form](https://www.dropbox.com/s/b5xjgo9gzhwh7tn/LRB23_1005.pdf?dl=0), [feedback](https://www.dropbox.com/scl/fi/r0joqk9phpcnohpg6husy/BES_2023_round2_feedback.docx?rlkey=f4f72htj6kvuftbxv47eccbv0&dl=0) - unsuccessful, through to final round however - 2023.
+  <p>British Ecological Society, Large Research Grant <a href="https://www.dropbox.com/s/b5xjgo9gzhwh7tn/LRB23_1005.pdf?dl=0">form</a>, <a href="https://www.dropbox.com/scl/fi/r0joqk9phpcnohpg6husy/BES_2023_round2_feedback.docx?rlkey=f4f72htj6kvuftbxv47eccbv0&dl=0">feedback</a> - unsuccessful, through to final round however - 2023.</p>
 
-Fish Society of the British Isles, Small Research Grant [form](https://www.dropbox.com/s/l7sy7iiqkguqcw0/FSBI_form.pdf?dl=0), [budget](https://www.dropbox.com/s/ds995ok8m5qm7yk/FSBI_Research-Grant-Budget-Hollie-Marshall.pdf?dl=0), [CV](https://www.dropbox.com/s/338et46u8d59zzq/FSBI_CV-Hollie-Marshall.pdf?dl=0) and [feedback](https://www.dropbox.com/s/gketurhsxsmzi98/FSBI_feedback_2023.pdf?dl=0) - unsuccessful - 2023.
+  <p>Fish Society of the British Isles, Small Research Grant <a href="https://www.dropbox.com/s/l7sy7iiqkguqcw0/FSBI_form.pdf?dl=0">form</a>, <a href="https://www.dropbox.com/s/ds995ok8m5qm7yk/FSBI_Research-Grant-Budget-Hollie-Marshall.pdf?dl=0">budget</a>, <a href="https://www.dropbox.com/s/338et46u8d59zzq/FSBI_CV-Hollie-Marshall.pdf?dl=0">CV</a> and <a href="https://www.dropbox.com/s/gketurhsxsmzi98/FSBI_feedback_2023.pdf?dl=0">feedback</a> - unsuccessful - 2023.</p>
 
-ESEB Progress Meeting in Evolutionary Biology [application](https://www.dropbox.com/s/a2o2c94yhyq5onw/Epi_in_EcoEvo.pdf?dl=0) - unsuccessful, second choice however - 2023.
+  <p>ESEB Progress Meeting in Evolutionary Biology <a href="https://www.dropbox.com/s/a2o2c94yhyq5onw/Epi_in_EcoEvo.pdf?dl=0">application</a> - unsuccessful, second choice however - 2023.</p>
 
-NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/zo0qvdhu9m4gsbz/NEOF_2022.pdf?dl=0) - made jointly with Dr. Katie Reilly - **successful** - 2022.
+  <p>NEOF Early Career Researcher Pilot Project Proposal <a href="https://www.dropbox.com/s/zo0qvdhu9m4gsbz/NEOF_2022.pdf?dl=0">application</a> - made jointly with Dr. Katie Reilly - **successful** - 2022.</p>
 
-NERC Discipline Hopping Small Grants [application](https://www.dropbox.com/s/jc78ae1pxq0rzsv/HM_Application_form.pdf?dl=0) and [project summary](https://www.dropbox.com/s/603bte4v7731cbu/HM_2page_summary.pdf?dl=0) - made jointly with Dr. Katie Reilly - **successful** - 2022.
+  <p>NERC Discipline Hopping Small Grants <a href="https://www.dropbox.com/s/jc78ae1pxq0rzsv/HM_Application_form.pdf?dl=0">application</a> and <a href="https://www.dropbox.com/s/603bte4v7731cbu/HM_2page_summary.pdf?dl=0">project summary</a> - made jointly with Dr. Katie Reilly - **successful** - 2022.</p>
 
-NEOF Early Career Researcher Pilot Project Proposal [application](https://www.dropbox.com/s/dkcbb9ebnf2klzm/HM_NEOF_ECR_Pilot_Scheme_2021.pdf?dl=0) - made jointly with Dr. Kamil Jaron - **successful** - 2021.
+  <p>NEOF Early Career Researcher Pilot Project Proposal <a href="https://www.dropbox.com/s/dkcbb9ebnf2klzm/HM_NEOF_ECR_Pilot_Scheme_2021.pdf?dl=0">application</a> - made jointly with Dr. Kamil Jaron - **successful** - 2021.</p>
 
+</details>
 
 <h2>Early Career Fellowships</h2>
 
