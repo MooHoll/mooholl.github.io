@@ -17,6 +17,18 @@ Here you can find various applications, both successful and unsuccessful as well
 </details>
 
 <details>
+  <summary> <b><font size="+1">Lecturship / Assistant Professor Applications</font></b> </summary>
+
+  <p>University of Leicester, Lecturer in Genomics: <a href="https://www.dropbox.com/scl/fi/xds890djthhrcjnz9p3yq/Cover_letter_Hollie_Marshall_leic.pdf?rlkey=t83nhouiafgt01w5s14p33inx&dl=0">cover letter</a>, <a href="https://www.dropbox.com/scl/fi/byjppia0sejqf4m6rel1r/CV_Hollie_Marshall_leic.pdf?rlkey=yyd14v4936txa00vb2xto545j&dl=0">CV</a>, <a href="https://www.dropbox.com/scl/fi/0ya1yub2luedj18ogv5bv/boxes.docx?rlkey=rcpgt3sfgyvy3p3qfmhcxv7m9&dl=0">online boxes</a>, <a href="https://www.dropbox.com/scl/fi/0j5qx9lvy89s0ykgq88wz/Hollie_Marshall_Research_leic.pptx?rlkey=10fp2v4ltnqzjicuc25dg5zgj&dl=0">research presentation</a>, <a href="https://www.dropbox.com/scl/fi/fmqqjwnp81icbpckkskcg/Hollie_Marshall_Teaching_leic.pptx?rlkey=a27zflqypw5guu07dww9jzgle&dl=0">teaching presentation</a> - <strong>successful</strong> from reserve spot - 2023.</p>
+
+  <p>University of Nottingham, Assistant Professor in Functional Genetics: <a href="https://www.dropbox.com/scl/fi/uwg0aiutb49qzv4xzrdv2/Boxes-and-statement.docx?rlkey=0igu6rexn8c6ix0u9ow4det86&dl=0">anonymised application</a>, <a href="https://www.dropbox.com/scl/fi/l17ad4hmv0az7s1avvnjo/CV_Hollie_Marshall_Notts.pdf?rlkey=stais6omcfu5p4icliqlq6st5&dl=0">CV</a>, <a href="https://www.dropbox.com/scl/fi/opvqvu88rrn1kwjk5g4hm/Interview_questions_nottingham.docx?rlkey=26sy8ob7r8namdka093i2dnlx&dl=0">interview questions</a>, <a href="https://www.dropbox.com/scl/fi/hwtymri82h85x54nmm972/Hollie_Marshall_Research_Notts.pptx?rlkey=tcaoi54aaq5jg0l8zhg8d3x0p&dl=0">research presentation</a>, <a href="https://www.dropbox.com/scl/fi/zif9jmtcibsq079dlg035/Hollie_Marshall_Teaching_Notts.pptx?rlkey=b02i7z7k5ak7iw4o6t0pz3ly8&dl=0">teaching presentation</a> - reserve spot - 2023.</p>
+
+  <p>University of Aberystwyth, Lecturer in Life Sciences: <a href="https://www.dropbox.com/scl/fi/4dgceob8u2ht2ntxq4pbc/Cover_letter_Hollie_Marshal_Aber.pdf?rlkey=3ek08e5rsh2zfklg1gwu15vpb&dl=0">cover letter</a>, <a href="https://www.dropbox.com/scl/fi/t8rk6k6p834snmbd9ohdh/CV_Hollie_Marshall_Aber.pdf?rlkey=b58z7fa0n8dm4elzl48rwhybt&dl=0">CV</a>, <a href="https://www.dropbox.com/scl/fi/8tnhs6g11x9qb18i44nzy/form_preview_Aber.pdf?rlkey=x6njhzmp9wgrbhw0ukrj8lxi3&dl=0">online form</a> - unsuccessful - 2023.</p>
+
+</details>
+
+
+<details>
   <summary> <b><font size="+1">Early Career Fellowships</font></b> </summary>
 
   <p>Leverhulme Early Career Research Fellowship <a href="https://www.dropbox.com/s/4o0ti9ykfb2vn22/Leverhulme_2023_dedacted.pdf?dl=0">application</a> - unsuccessful - 2023.</p>
@@ -60,7 +72,7 @@ Here you can find various applications, both successful and unsuccessful as well
 
   <p>University of Aberdeen, Interdisciplinary Fellowship <a href="https://www.dropbox.com/s/a4pr2t5eo4sj5kt/Cover_letter_Hollie_Marshall.pdf?dl=0">cover letter</a>, <a href="https://www.dropbox.com/s/7owdtuwg47d7gtw/CV_Hollie_Marshall.pdf?dl=0">CV</a> - unsuccessful - 2022.</p>
 
-  <p>University of Leicester, Postdoc in Bumblebee Epignetics <a href="https://www.dropbox.com/s/6fd938nx352jueu/Leicester_cover_letter.pdf?dl=0">cover letter</a>, [CV]<a href="https://www.dropbox.com/s/ohzrym5tl8a9yq9/CV_Leicester_2021.pdf?dl=0">CV</a>, <a href="https://www.dropbox.com/s/j1fiys04o5t70n0/Leicester_job_talk.pptx?dl=0">interview presentation</a> - <strong>successful</strong> - 2021.</p>
+  <p>University of Leicester, Postdoc in Bumblebee Epignetics <a href="https://www.dropbox.com/s/6fd938nx352jueu/Leicester_cover_letter.pdf?dl=0">cover letter</a>, <a href="https://www.dropbox.com/s/ohzrym5tl8a9yq9/CV_Leicester_2021.pdf?dl=0">CV</a>, <a href="https://www.dropbox.com/s/j1fiys04o5t70n0/Leicester_job_talk.pptx?dl=0">interview presentation</a> - <strong>successful</strong> - 2021.</p>
 
   <p>Postdoc in insect epigenetics and pesticide exposure <a href="https://www.dropbox.com/s/bply7yu3qvtuq6z/exeter_app.pdf?dl=0">cover letter</a> - not applied for in the end - 2019.</p>
 
