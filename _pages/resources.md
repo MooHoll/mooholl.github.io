@@ -10,9 +10,9 @@ Here you can find various applications, both successful and unsuccessful as well
 <details>
   <summary> <b><font size="+1">Current CV</font></b> </summary>
 
-  [Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code. testing3
+  <p>[Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code. testing4
 
-  [Condensed CV](https://www.overleaf.com/read/dqxkdyfxfqsj).
+  [Condensed CV](https://www.overleaf.com/read/dqxkdyfxfqsj).</p>
 </details>
 
 <h2>Small funding Pots</h2>
