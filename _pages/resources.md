@@ -10,7 +10,7 @@ Here you can find various applications, both successful and unsuccessful as well
 <details>
   <summary><h2>Current CV</h2>
   </summary>
-    [Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code.
+    [Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code. test...
 
     [Condensed CV](https://www.overleaf.com/read/dqxkdyfxfqsj).
 </details>
