@@ -17,7 +17,26 @@ Here you can find various applications, both successful and unsuccessful as well
 </details>
 
 <details>
-  <summary> <b><font size="+1">Small funding pots - Postdoc level</font></b> </summary>
+  <summary> <b><font size="+1">Early Career Fellowships</font></b> </summary>
+
+  <p>Leverhulme Early Career Research Fellowship <a href="https://www.dropbox.com/s/4o0ti9ykfb2vn22/Leverhulme_2023_dedacted.pdf?dl=0">application</a> - unsuccessful - 2023.</p>
+
+  <p>NERC Independent Fellowship <a href="https://www.dropbox.com/s/14zva7k0kshzc86/jes-2726477.pdf?dl=0">application</a> and <a href="https://www.dropbox.com/s/o9xo3aik1e8m9ov/NERC_feedback_2022.pdf?dl=0">feedback</a> - unsuccessful - 2023.</p>
+
+  <p>EMBO Postdoctoral Fellowship <a href="https://www.dropbox.com/s/0tov0gnwgqny16r/EMBO_long_term_fellowship.pdf?dl=0">application</a> - made it to final short list (interview)- unsuccessful - 2021.</p>
+
+  <p>Leverhulme Early Career Researcher Fellowship <a href="https://www.dropbox.com/s/czwz0dk3yh1j4py/Leverhulme_ECR_Fellowship_2021.pdf?dl=0">application</a> - made it to final shortlist - unsuccessful - 2021.</p>
+
+  <p>Royal Commission for the Exhibition of 1851 Research Fellowship <a href="https://www.dropbox.com/s/c80ihzwfesdqefa/Royal_Commission_of_1851_Research_Fellowship_2021.pdf?dl=0">application</a> - unsuccessful - 2021.</p>
+
+  <p>Marie Sklodowska-Curie Actions Independent Fellowship <a href="https://www.dropbox.com/s/n06vkmc7im387dx/HM_MSCA_Independent_fellowship_2020_unsuccessful.pdf?dl=0">application</a> and <a href="https://www.dropbox.com/s/r9d162h1bfsptws/HM_MSCA_2020_feedback.pdf?dl=0">feedback</a> - unsuccessful - scored 93.4% funding cut-off was 94.4% - 2020.</p>
+
+  <p>Marie Sklodowska-Curie Actions Independent Fellowship <a href="https://www.dropbox.com/s/lh6n9v0axucj6i6/Final_proposal.pdf?dl=0">application</a> and <a href="https://www.dropbox.com/s/ypoa6xfgklqv0ih/882722_EpiSpider_ESR.pdf?dl=0">feedback</a> - unsuccessful but made the reserve list - scored 92.2% funding cut-off was 92.6% - 2019.</p>
+
+</details>
+
+<details>
+  <summary> <b><font size="+1">Small Funding Pots - Postdoc</font></b> </summary>
 
   <p>BBSRC Impact Accelerator <a href="https://www.dropbox.com/s/kj1od9dt66w1odi/BBSRC%20IAA%20application%20form%20PoC%20Hollie%20Marshall.pdf?dl=0">application</a> - **successful** - 2023.</p>
 
@@ -35,75 +54,65 @@ Here you can find various applications, both successful and unsuccessful as well
 
 </details>
 
-<h2>Early Career Fellowships</h2>
 
-Leverhulme Early Career Research Fellowship [application](https://www.dropbox.com/s/4o0ti9ykfb2vn22/Leverhulme_2023_dedacted.pdf?dl=0) - unsuccessful - 2023.
+<details>
+  <summary> <b><font size="+1">Postdoc Applications</font></b> </summary>
 
-NERC Independent Fellowship [full application](https://www.dropbox.com/s/14zva7k0kshzc86/jes-2726477.pdf?dl=0) and [feedback](https://www.dropbox.com/s/o9xo3aik1e8m9ov/NERC_feedback_2022.pdf?dl=0) - unsuccessful - 2023.
+  <p>University of Aberdeen, Interdisciplinary Fellowship <a href="https://www.dropbox.com/s/a4pr2t5eo4sj5kt/Cover_letter_Hollie_Marshall.pdf?dl=0">cover letter</a>, <a href="https://www.dropbox.com/s/7owdtuwg47d7gtw/CV_Hollie_Marshall.pdf?dl=0">CV</a> - unsuccessful - 2022.</p>
 
-EMBO Postdoctoral Fellowship [application](https://www.dropbox.com/s/0tov0gnwgqny16r/EMBO_long_term_fellowship.pdf?dl=0) - made it to final short list (interview)- unsuccessful - 2021.
+  <p>University of Leicester, Postdoc in Bumblebee Epignetics <a href="https://www.dropbox.com/s/6fd938nx352jueu/Leicester_cover_letter.pdf?dl=0">cover letter</a>, [CV]<a href="https://www.dropbox.com/s/ohzrym5tl8a9yq9/CV_Leicester_2021.pdf?dl=0">CV</a>, <a href="https://www.dropbox.com/s/j1fiys04o5t70n0/Leicester_job_talk.pptx?dl=0">interview presentation</a> - **successful** - 2021.</p>
 
-Leverhulme Early Career Researcher Fellowship [application](https://www.dropbox.com/s/czwz0dk3yh1j4py/Leverhulme_ECR_Fellowship_2021.pdf?dl=0) - made it to final shortlist - unsuccessful - 2021.
+  <p>Postdoc in insect epigenetics and pesticide exposure <a href="https://www.dropbox.com/s/bply7yu3qvtuq6z/exeter_app.pdf?dl=0">cover letter</a> - not applied for in the end - 2019.</p>
 
-Royal Commission for the Exhibition of 1851 Research Fellowship [application](https://www.dropbox.com/s/c80ihzwfesdqefa/Royal_Commission_of_1851_Research_Fellowship_2021.pdf?dl=0) - unsuccessful - 2021.
+  <p>University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction <a href="https://www.dropbox.com/s/ktpmn0b8x3nbajj/Hollie_Marshall_Cover_Letter.pdf?dl=0">cover letter</a>, <a href="https://www.dropbox.com/s/0ztj72ji82eb68h/Edinburgh_CV.pdf?dl=0">CV</a> and <a href="https://www.dropbox.com/s/ggn37uytowu4q1w/Interview_Edinburgh.pdf?dl=0">interview presentation</a> - **successful** - 2019.</p>
 
-Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/n06vkmc7im387dx/HM_MSCA_Independent_fellowship_2020_unsuccessful.pdf?dl=0) and [feedback](https://www.dropbox.com/s/r9d162h1bfsptws/HM_MSCA_2020_feedback.pdf?dl=0) - unsuccessful - scored 93.4% funding cut-off was 94.4% - 2020.
+</details>
 
-Marie Sklodowska-Curie Actions Independent Fellowship [application](https://www.dropbox.com/s/lh6n9v0axucj6i6/Final_proposal.pdf?dl=0) and [feedback](https://www.dropbox.com/s/ypoa6xfgklqv0ih/882722_EpiSpider_ESR.pdf?dl=0) - unsuccessful but made the reserve list - scored 92.2% funding cut-off was 92.6% - 2019.
+<details>
+  <summary> <b><font size="+1">Training and Travel Grants - PhD/Postdoc</font></b> </summary>
 
+  <p>The Genetics Society Training Grant <a href="https://www.dropbox.com/s/9cg5j76rzfrmitw/HM_Genetics_Society_Training_Grant_2020_successful.pdf?dl=0">application</a> - **successful** - 2020.</p>
 
-<h2>Postdoc Applications</h2>
+  <p>The Genetics Society Junior Scientist Conference Grant <a href="https://www.dropbox.com/s/pr7k1w52bgetopl/Genetics_application_Hollie.pdf?dl=0">application</a> - **successful** - 2018.</p>
 
-University of Aberdeen, Interdisciplinary Fellowship [cover letter](https://www.dropbox.com/s/a4pr2t5eo4sj5kt/Cover_letter_Hollie_Marshall.pdf?dl=0), [CV](https://www.dropbox.com/s/7owdtuwg47d7gtw/CV_Hollie_Marshall.pdf?dl=0) - unsuccessful - 2022.
+  <p>British Ecological Society Conference Grant <a href="https://www.dropbox.com/s/vpobeg1eoh694ut/BES%20CONFERENCE%20GRANT%20APPLICATION%20INFO.pdf?dl=0">application</a> - not applied for in the end - 2017.</p>
 
-University of Leicester, Postdoc in Bumblebee Epignetics [cover letter](https://www.dropbox.com/s/6fd938nx352jueu/Leicester_cover_letter.pdf?dl=0), [CV](https://www.dropbox.com/s/ohzrym5tl8a9yq9/CV_Leicester_2021.pdf?dl=0), [interview presentation](https://www.dropbox.com/s/j1fiys04o5t70n0/Leicester_job_talk.pptx?dl=0) - **successful** - 2021.
+</details>
 
-Postdoc in insect epigenetics and pesticide exposure [cover letter](https://www.dropbox.com/s/bply7yu3qvtuq6z/exeter_app.pdf?dl=0) - not applied for in the end - 2019.
+<details>
+  <summary> <b><font size="+1">Competative Training Courses - PhD</font></b> </summary>
 
-University of Edinburgh, Postdoc in Insect Epigenetics and Reproduction [cover letter](https://www.dropbox.com/s/ktpmn0b8x3nbajj/Hollie_Marshall_Cover_Letter.pdf?dl=0), [CV](https://www.dropbox.com/s/0ztj72ji82eb68h/Edinburgh_CV.pdf?dl=0) and [interview presentation](https://www.dropbox.com/s/ggn37uytowu4q1w/Interview_Edinburgh.pdf?dl=0) - **successful** - 2019.
+  <p>Programming for Evolutionary Biology <a href="https://www.dropbox.com/s/ggg0hbqssu1kv5e/Hollie_Marshall_Motivation_Letter.pdf?dl=0">application</a> and <a href="https://www.dropbox.com/s/wcg4fvkyxxq15nq/Hollie_Marshall_Stipend_Application.pdf?dl=0">stipend application</a> - both **successful** - 2016.</p>
 
+  <p>British Ecological Society Public Engagement Course <a href="https://www.dropbox.com/s/71t3he8bxs3fwnu/BES_PubEngage_Training_Application.pdf?dl=0">application</a> - **successful** - 2016.</p>
 
-<h2>Training and Travel Grants</h2>
+  <p>Bioinformatics for Adaptation Genomics, Winter School <a href="https://www.dropbox.com/s/9tt892n17upinpl/B%40G_Application_Hollie_Marshall.pdf?dl=0">application</a> - unsuccessful - 2015.</p>
 
-The Genetics Society Training Grant [application](https://www.dropbox.com/s/9cg5j76rzfrmitw/HM_Genetics_Society_Training_Grant_2020_successful.pdf?dl=0) - **successful** - 2020.
+  <p>Molecular Diagnostics For Species Identification And Evolutionary Analysis <a href="https://www.dropbox.com/s/yq03p7qc3l2md2f/Molec_Course_app_Hollie_Marshall.pdf?dl=0">application</a> - unsuccessful - 2015.</p>
 
-The Genetics Society Junior Scientist Conference Grant [application](https://www.dropbox.com/s/pr7k1w52bgetopl/Genetics_application_Hollie.pdf?dl=0) - **successful** - 2018.
-
-British Ecological Society Conference Grant [application](https://www.dropbox.com/s/vpobeg1eoh694ut/BES%20CONFERENCE%20GRANT%20APPLICATION%20INFO.pdf?dl=0) - not applied for in the end - 2017.
-
-
-<h2>Competitive Training Courses</h2>
-
-Programming for Evolutionary Biology [application](https://www.dropbox.com/s/ggg0hbqssu1kv5e/Hollie_Marshall_Motivation_Letter.pdf?dl=0) and [stipend application](https://www.dropbox.com/s/wcg4fvkyxxq15nq/Hollie_Marshall_Stipend_Application.pdf?dl=0) - both **successful** - 2016.
-
-British Ecological Society Public Engagement Course [application](https://www.dropbox.com/s/71t3he8bxs3fwnu/BES_PubEngage_Training_Application.pdf?dl=0) - **successful** - 2016.
-
-Bioinformatics for Adaptation Genomics, Winter School [application](https://www.dropbox.com/s/9tt892n17upinpl/B%40G_Application_Hollie_Marshall.pdf?dl=0) - unsuccessful - 2015.
-
-Molecular Diagnostics For Species Identification And Evolutionary Analysis [application](https://www.dropbox.com/s/yq03p7qc3l2md2f/Molec_Course_app_Hollie_Marshall.pdf?dl=0) - unsuccessful - 2015.
-
-<h2>PhD Applications</h2>
-
-Central England NERC Training Alliance [cover letter](https://www.dropbox.com/s/s2ttgu6iypys88e/PhD_Personal_Statement.pdf?dl=0) - **successful** - 2015.
-
-I also applied for MANY other PhDs both before and after my masters degree, which apparently the old me has deleted. The cover letters were all similar to the one above though. 
-
-<h2>Conference Sponsorship</h2>
-
-CENTA conference sponsorship [application](https://www.dropbox.com/s/q4if6sk03vj7zdt/hollie_conference_sponsorship_request.pdf?dl=0) - **successful** - 2018.
-
-Conference sponsorship [letter](https://www.dropbox.com/s/0j2i3v1r1ccudxi/royal_commison_invite.pdf?dl=0) example, sent to many companies and societies - some **successful** and some not - 2016.
-
-<h2>Other</h2>
-L'Oréal-UNESCO for Women in Science UK [application form](https://www.dropbox.com/s/pdt8oauwyjxeni4/Loreal_form.pdf?dl=0), [candidate statement](https://www.dropbox.com/s/x74nwmnaubuqmwo/Loreal_Candidate_statement.pdf?dl=0), [research proposal](https://www.dropbox.com/s/2scxerethp5y6d9/Loreal_Research_proposal.pdf?dl=0) - unsuccessful - 2023.
-
-Fellowship to the Higher Education Academy [application](https://www.dropbox.com/s/v74jvfsfi7kcxiz/H%20Marshall%20FHEA1.pdf?dl=0) - **successful** - 2019.
-
-University of Leicester, International Foundation Year Biology Tutor [application](https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0) and [CV](https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0) - **successful** - 2017.
-
-British Ecological Society Public Engagement Working Group Student Representative [cover letter](https://www.dropbox.com/s/sgxb5lrxq3fwl2u/BES_Rep_Cover_Letter.pdf?dl=0) and [CV](https://www.dropbox.com/s/g6418z79giqr5wu/BES_Rep_CV.pdf?dl=0) - unsuccessful - 2016(?).
-
-University of Birmingham Masters Degree [cover letter](https://www.dropbox.com/s/x3mn1q22hypogb7/Masters_Cover_Letter.pdf?dl=0) - **successful** - 2013.
+</details>
 
 
+<details>
+  <summary> <b><font size="+1">Other</font></b> </summary>
+
+  <p>L'Oréal-UNESCO for Women in Science UK <a href="https://www.dropbox.com/s/pdt8oauwyjxeni4/Loreal_form.pdf?dl=0">application</a>, <a href="https://www.dropbox.com/s/x74nwmnaubuqmwo/Loreal_Candidate_statement.pdf?dl=0">candidate statement</a>, <a href="https://www.dropbox.com/s/2scxerethp5y6d9/Loreal_Research_proposal.pdf?dl=0">research proposal</a> - unsuccessful - 2023.</p>
+
+  <p>Fellowship to the Higher Education Academy <a href="https://www.dropbox.com/s/v74jvfsfi7kcxiz/H%20Marshall%20FHEA1.pdf?dl=0">application</a> - **successful** - 2019.</p>
+
+  <p>CENTA conference sponsorship <a href="https://www.dropbox.com/s/q4if6sk03vj7zdt/hollie_conference_sponsorship_request.pdf?dl=0">application</a> - **successful** - 2018.</p>
+
+  <p>University of Leicester, International Foundation Year Biology Tutor <a href="https://www.dropbox.com/s/ot13hf1ymdkhs0w/Tutor_App_form.pdf?dl=0">application</a> and <a href="https://www.dropbox.com/s/ffbp0nw8mr0zktr/Tutoring_CV.pdf?dl=0">CV</a> - **successful** - 2017.</p>
+
+  <p>British Ecological Society Public Engagement Working Group Student Representative <a href="https://www.dropbox.com/s/sgxb5lrxq3fwl2u/BES_Rep_Cover_Letter.pdf?dl=0">cover letter</a> and <a href="https://www.dropbox.com/s/g6418z79giqr5wu/BES_Rep_CV.pdf?dl=0">CV</a> - unsuccessful - 2016(?).</p>
+
+  <p>Conference sponsorship <a href="https://www.dropbox.com/s/0j2i3v1r1ccudxi/royal_commison_invite.pdf?dl=0">letter</a> example, sent to many companies and societies - some **successful** and some not - 2016.</p>
+
+  <p>Central England NERC Training Alliance <a href="https://www.dropbox.com/s/s2ttgu6iypys88e/PhD_Personal_Statement.pdf?dl=0">cover letter</a> - **successful** - 2015.</p>
+
+  <p>I also applied for MANY other PhDs both before and after my masters degree, which apparently the old me has deleted. The cover letters were all similar to the one above though. </p>
+
+  <p>University of Birmingham Masters Degree <a href="https://www.dropbox.com/s/x3mn1q22hypogb7/Masters_Cover_Letter.pdf?dl=0">cover letter</a> - **successful** - 2013.</p>
+
+</details>
 
