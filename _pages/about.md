@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-![](files/research_overview.jpg){:height="75%" width="75%" .center-image} 
+![](files/research_overview.jpg){:height="50%" width="50%" .center-image} 
