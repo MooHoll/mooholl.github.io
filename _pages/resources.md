@@ -7,16 +7,16 @@ author_profile: true
 
 Here you can find various applications, both successful and unsuccessful as well as my current CV and other possibly useful things.
 
-<button type="button" class="collapsible">Test Botton</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div>
+<details>
+  <summary>
+    <h2>Current CV</h2>
+  </summary>
+  <p>
+    [Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code.
 
-<h2>Current CV</h2>
-
-[Full CV](https://www.overleaf.com/read/xyhzbnmtmppp) on the Overleaf platform. You can also access the LaTeX code.
-
-[Condensed CV](https://www.overleaf.com/read/dqxkdyfxfqsj).
+    [Condensed CV](https://www.overleaf.com/read/dqxkdyfxfqsj).
+  </p>
+</details>
 
 <h2>Small funding Pots</h2>
 

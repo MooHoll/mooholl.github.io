@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-![Research overview](files/research_overview.pdf){:height="75%" width="75%" .center-image} 
+![Research overview](files/research_overview.jpg){:height="75%" width="75%" .center-image} 
