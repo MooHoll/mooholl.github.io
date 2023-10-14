@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marshall Lab"
-  avatar           : ""
+  avatar           : "me.png"
   bio              : "Ecological / evolutionary epigenetics in arthropod species."
   location         : "University of Leicester, UK."
   employer         :
