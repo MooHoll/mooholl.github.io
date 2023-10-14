@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-![nasonia](files/wasp.png){:height="80%" width="80%" .center-image} 
+![wasp](files/wasp.png){:width="250px" .center-image} 
 
 <h3>Transgenerational consequences of environmental exposure</h3>
 Environmental pollution is a major cause of both human disease and species population declines. In order to identify populations most at risk we need to understand not only the individual consequences of pollution exposure but also the transgenerational consequences. Within the lab we use tractable arthropod model species to examine the epigenetic changes caused by pollution and to underdstand how these changes are inherited across generations. 
@@ -14,7 +14,7 @@ Currently the lab has ongoing projects on pesticides and microplastics.
 
 ---
 
-<img src="files/daphnia.png" alt="daphnia" style="float:right;width:250px">
+<img src="files/daphnia.png" alt="daphnia" style="float:right;width:250px" />
 
 <h3>The role of epigenetic mechanisms in species adaptation</h3>
 Climate change and human impact are currently the major drivers of species loss. Some models have predicted that we are in the midst of a sixth mass extinction event. We need to understand how species can adapt to rapid environmental change in order to mitigate these losses. Epigenetic mechanisms have been predicted to play a role in rapid species adatation. We use the newly emerging field of population epigenetics to examine the relationship between the genome and epigenome, in the context of species adaptation.
