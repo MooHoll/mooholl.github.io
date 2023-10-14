@@ -14,12 +14,16 @@ Currently the lab has ongoing projects on pesticides and microplastics.
 
 ---
 
+<img src="files/daphnia.png" alt="daphnia" style="float:right;width:250px">
+
 <h3>The role of epigenetic mechanisms in species adaptation</h3>
 Climate change and human impact are currently the major drivers of species loss. Some models have predicted that we are in the midst of a sixth mass extinction event. We need to understand how species can adapt to rapid environmental change in order to mitigate these losses. Epigenetic mechanisms have been predicted to play a role in rapid species adatation. We use the newly emerging field of population epigenetics to examine the relationship between the genome and epigenome, in the context of species adaptation.
 
 Currently the lab has ongoing projects on temporal population epigenetics in waterfleas and the genome/epigenome interaction in jewel wasps.
 
 ---
+
+<img src="files/louse.png" alt="louse" style="float:right;width:250px">
 
 <h3>Development of novel pest/parasite epigenetic-targeted treatments</h3>
 In addition to being a major environmental pollutant, pesticides are losing efficacy as species adapt. There is, therefore, a need for novel species-specific remidies. In collaboration with Insect Research and Development Ltd., we are working towards creating the first epigenetic-targeted species-specific treatment of head and body lice. 
