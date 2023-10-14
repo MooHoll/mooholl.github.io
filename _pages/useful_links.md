@@ -18,7 +18,7 @@ Here are some of my favourite societies. Societies are useful to join as they us
 
 <h2>Fellowships</h2>
 
-Fellowships are opportunites to obtain your own funding to carry out an independent peice of research. There are various types, e.g.
+Fellowships are post-PhD opportunites to obtain your own funding to carry out an independent piece of research. There are various types, e.g.
 
 - **Short-term fellowships** such as the [EMBO short-term fellowship](https://www.embo.org/funding-awards/fellowships/short-term-fellowships.html) which offers a 3month stay in another research lab. It's possible to do one of these during your PhD. There are also smaller ones such as the [Varley Gradwell Travelling Fellowship](https://www.zoo.ox.ac.uk/trustfunds#collapse405916) which supports a short project on entomology.
 

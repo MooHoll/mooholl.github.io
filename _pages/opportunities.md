@@ -14,7 +14,7 @@ I don't have any advertised projects currently, but if you're interested in a pr
 
 <h2>Funded Undergraduate Summer Placement</h2>
 
-Funded summer placements for UK students usually between their 2nd and 3rd years of study. Please note I do not take on voluntary/unpaid projects.
+Funded summer placements for UK students usually between their 2nd and 3rd years of study. Please note, I do not take on voluntary/unpaid projects.
 
 [The Genetics Society](https://genetics.org.uk/grants/summer-studentships/) - deadline March.\
 [MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/rep/) - deadline June.\

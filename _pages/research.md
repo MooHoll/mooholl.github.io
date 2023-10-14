@@ -16,7 +16,7 @@ Climate change and human impact are currently the major drivers of species loss.
 Currently the lab has ongoing projects on temporal population epigenetics in waterfleas and the genome/epigenome interaction in jewel wasps.
 
 <h3>Development of novel pest/parasite epigenetic-targeted treatments</h3>
-In addition to being a major environmental pollutant, pesticides are losing efficacy as species adapt. There is therefore a need for novel species-specific remidies. In collaboration with Insect Research and Development Ltd., we are working towards creating the first epigenetic-targeted species-specific treatment of head and body lice. 
+In addition to being a major environmental pollutant, pesticides are losing efficacy as species adapt. There is, therefore, a need for novel species-specific remidies. In collaboration with Insect Research and Development Ltd., we are working towards creating the first epigenetic-targeted species-specific treatment of head and body lice. 
 
 
 ---
