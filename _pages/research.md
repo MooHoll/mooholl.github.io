@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="/files/nasonia.png" alt="Nasonia" style="float:right;width:250px">
+<img src="./files/nasonia.png" alt="nasonia" style="float:right;width:250px">
 
 <h3>Transgenerational consequences of environmental exposure</h3>
 Environmental pollution is a major cause of both human disease and species population declines. In order to identify populations most at risk we need to understand not only the individual consequences of pollution exposure but also the transgenerational consequences. Within the lab we use tractable arthropod model species to examine the epigenetic changes caused by pollution and to underdstand how these changes are inherited across generations. 
