@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="files/wasp.PNG" alt="wasp" style="float:right;width:250px">
+![nasonia](files/wasp.png){:height="80%" width="80%" .center-image} 
 
 <h3>Transgenerational consequences of environmental exposure</h3>
 Environmental pollution is a major cause of both human disease and species population declines. In order to identify populations most at risk we need to understand not only the individual consequences of pollution exposure but also the transgenerational consequences. Within the lab we use tractable arthropod model species to examine the epigenetic changes caused by pollution and to underdstand how these changes are inherited across generations. 
@@ -28,7 +28,6 @@ Currently the lab has ongoing projects on temporal population epigenetics in wat
 <h3>Development of novel pest/parasite epigenetic-targeted treatments</h3>
 In addition to being a major environmental pollutant, pesticides are losing efficacy as species adapt. There is, therefore, a need for novel species-specific remidies. In collaboration with Insect Research and Development Ltd., we are working towards creating the first epigenetic-targeted species-specific treatment of head and body lice. 
 
----
 
 <h2>Previous Projects:</h2>
 
