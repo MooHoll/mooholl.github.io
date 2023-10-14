@@ -1,16 +1,9 @@
 ---
 layout: archive
-title: "Outreach"
-permalink: /outreach/
+title: "Talks"
+permalink: /talks/
 author_profile: true
 ---
-
-Here are a bunch of links and files for some outreach stuff I have previously done. Please feel free to share and reuse.
-
-<h2>School Level Talks</h2>
-
-A [talk](https://drive.google.com/file/d/1j0hzyMpm5l7EENQY6FEbpzYwk-Jmju-A/view?usp=sharing) about what a research scientist is in academia and how to get this career (UK focused - A-level appropriate) - 2021.
-
 
 <h2>Research Talks</h2>
 
@@ -22,6 +15,13 @@ A [talk](https://drive.google.com/file/d/1j0hzyMpm5l7EENQY6FEbpzYwk-Jmju-A/view?
 
 [Evolution Letters Online Summer Talk](https://www.youtube.com/watch?v=D0ZQMQgx2Dw) - DNA methylation and gene expression differences between reproductive and sterile bumbelbee workers - 2020.
 
+---
+
+<h2>School Level Talks</h2>
+
+A [talk](https://drive.google.com/file/d/1j0hzyMpm5l7EENQY6FEbpzYwk-Jmju-A/view?usp=sharing) about what a research scientist is in academia and how to get this career (UK focused - A-level appropriate) - 2021.
+
+---
 
 <h2>Podcasts</h2>
 
