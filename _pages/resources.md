@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-Here you can find various applications, both successful and unsuccessful as well as my current CV and other possibly useful things.
+Here you can find various applications, both successful and unsuccessful as well as my current CV and other possibly useful things. I make these resources available as a learning tool for others. I also think it's useful for students and ECRs to see that rejection is a normal part of academic life.
 
 <details>
   <summary> <b><font size="+1">Current CV</font></b> </summary>
