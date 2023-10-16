@@ -20,7 +20,7 @@ Funded summer placements for UK students usually between their 2nd and 3rd years
 [MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/rep/) - deadline June.\
 [CENTA](https://centa.ac.uk/centa-research-experience-placements-rep-2022/) - unsure of deadline.
 
-If you would be interested in carrying out a summer project with me please contact me two months before the deadline of the funding you're interested in.
+If you would be interested in carrying out a summer project in the lab please contact me at least one month before the deadline of the funding you're interested in.
 
 <h2>Undergraduate and Masters Projects</h2>
 
