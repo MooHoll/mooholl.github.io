@@ -32,6 +32,6 @@ In addition to being a major environmental pollutant, pesticides are losing effi
 
 <h2>Previous Projects:</h2>
 
-- Gene imprinting in bumblebees, as a test for Haig's kinship theory.
+- Genomic imprinting in bumblebees, as a test for Haig's kinship theory.
 - The role of DNA methylation in paternal genome elimination in mealybugs.
 - Characterisation of sex-specific DNA methylation profiles in crop pest species.
