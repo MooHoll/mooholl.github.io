@@ -10,9 +10,11 @@ Here you can find various applications, both successful and unsuccessful as well
 <details>
   <summary> <b><font size="+1">Current CV</font></b> </summary>
 
-  <p><a href="https://www.overleaf.com/read/xyhzbnmtmppp">Full CV</a> on the Overleaf platform. You can also access the LaTeX code.</p>
+  <p><a href="https://www.overleaf.com/read/dqxkdyfxfqsj">Condensed CV</a> on the Overleaf platform. You can also access the LaTeX code.</p>
 
-  <p><a href="https://www.overleaf.com/read/dqxkdyfxfqsj">Condensed CV.</a></p>
+  <p><a href="https://www.overleaf.com/read/xyhzbnmtmppp">Full CV</a> with everything itemised.
+
+
 
 </details>
 
