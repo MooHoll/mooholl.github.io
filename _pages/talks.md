@@ -11,7 +11,7 @@ author_profile: true
 
 [IUSSI Conference Talk](https://drive.google.com/file/d/1KOkr_Z9SRdeETmTzohXJey66G6bj_rkw/view?usp=sharing) - Epigenetic mechanisms of genomic imprinting in bumblebees - 2022.
 
-[Doctoral Inagural Lecture: University of Leicester](https://www.youtube.com/watch?v=mK8orMPBmFk) - Imprinted genes in bumblebees may explain why workers commit treason - 2021.
+[Doctoral Inaugural Lecture: University of Leicester](https://www.youtube.com/watch?v=mK8orMPBmFk) - Imprinted genes in bumblebees may explain why workers commit treason - 2021.
 
 [Evolution Letters Online Summer Talk](https://www.youtube.com/watch?v=D0ZQMQgx2Dw) - DNA methylation and gene expression differences between reproductive and sterile bumbelbee workers - 2020.
 
