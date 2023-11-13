@@ -27,6 +27,8 @@ Fellowships are post-PhD opportunites to obtain your own funding to carry out an
 
 This website lists 100s of fellowship opportunities world wide: [Early Career Researchers Central](https://ecrcentral.org/fundings).
 
+Some excellent advise for writing a [UK BBSRC fellowship](https://elisagranato.com/how-to-apply-for-a-uk-postdoc-fellowship#interview) (also good advise generally for fellowships.)
+
 <h2> Other </h2>
 
 Link to a blog post on how to hire a postdoc in a fair and inclusive way [here](http://macromuseum.github.io/application-advice/).
