@@ -29,4 +29,6 @@ General project management:
 
   <p><a href="https://alice-docs.le.ac.uk">Guide to ALICE</a> - this is the UoL high performance computing system.</p>
 
+  <p><a href="https://broadinstitute.github.io/2019_scWorkshop/">scRNA-Seq analysis</a> - this is a little old now (2019) but a good palce to start.</p>
+
 </details>
