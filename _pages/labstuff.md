@@ -21,3 +21,12 @@ General project management:
     - gannt chart
     - google scholar alerts
     -->
+
+<details>
+  <summary> <b><font size="+1">Bioinformatics</font></b> </summary>
+
+  <p><a href="https://modernstatisticswithr.com/index.html?s=09">Beginner's guide to R</a> - full walkthrough from installation, data handling and graphs to simple models.</p>
+
+  <p><a href="https://alice-docs.le.ac.uk">Guide to ALICE</a> - this is the UoL high performance computing system.</p>
+
+</details>
