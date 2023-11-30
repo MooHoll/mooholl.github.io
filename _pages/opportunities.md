@@ -10,7 +10,8 @@ I don't have any advertised projects currently, but I would be happy to support 
 Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowships.
 
 <h2>PhD Students</h2>
-I don't have any advertised projects currently, but if you're interested in carrying out a project in this lab, feel free to reach out and we can discuss.
+Eileen Cowan Legacy PhD Studentship: UoL funded (student competition):</br>
+Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease (epigenetics and microbiome - interdisciplinary project). Details will be advertised shortly (December 2023). Feel free to email me your CV for an informal enquiry: hjm32@leicester.ac.uk.
 
 <h2>Funded Undergraduate Summer Placement</h2>
 
