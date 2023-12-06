@@ -14,6 +14,10 @@ Eileen Cowan Legacy PhD Studentship: UoL funded (student competition):
 
 Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease (epigenetics and microbiome - interdisciplinary project). Details will be advertised shortly (December 2023). Feel free to email me your CV for an informal enquiry: hjm32@leicester.ac.uk.
 
+<h2>Masters by Research</h2>
+
+If you're unsure about doing a PhD or need more experience in order to win a funded PhD studentship, an MSc by Research can be a good choice. These are usually 1yr full-time (2yrs part-time) 100% research degrees where you write up a thesis at the end (like a mini-PhD). These usually aren't advertised on University websites but we can make them happen. Send me an email if you're interested in this option. 
+
 <h2>Funded Undergraduate Summer Placement</h2>
 
 Funded summer placements for UK students usually between their 2nd and 3rd years of study. Please note, I do not take on voluntary/unpaid projects.
