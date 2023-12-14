@@ -12,7 +12,7 @@ Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowsh
 <h2>PhD Students</h2>
 Eileen Cowan Legacy PhD Studentship: UoL funded (student competition):
 
-Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease (epigenetics and microbiome - interdisciplinary project). Details will be advertised shortly (December 2023). Feel free to email me your CV for an informal enquiry: hjm32@leicester.ac.uk.
+[Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease](https://le.ac.uk/study/research-degrees/funded-opportunities/cls-eileen-cowan) (epigenetics and microbiome - interdisciplinary project). **DEADLINE January 15th 2024.** Feel free to email me your CV for an informal enquiry: hjm32@leicester.ac.uk.
 
 <h2>Masters by Research</h2>
 
