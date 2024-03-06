@@ -22,7 +22,7 @@ If you're unsure about doing a PhD or need more experience in order to win a fun
 
 Funded summer placements for UK students usually between their 2nd and 3rd years of study. Please note, I do not take on voluntary/unpaid projects.
 
-[The Genetics Society](https://genetics.org.uk/grants/summer-studentships/) - deadline March.\
+[The Genetics Society](https://genetics.org.uk/grants/summer-studentships/) - deadline March.
 
 <!---[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/rep/) - deadline June.\ -->
 [CENTA](https://centa.ac.uk/centa-research-experience-placements-rep-2022/) - deadline tbd.
