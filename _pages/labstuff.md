@@ -36,3 +36,13 @@ General project management:
   <p><a href="https://broadinstitute.github.io/2019_scWorkshop/">scRNA-Seq analysis</a> - this is a little old now (2019) but a good palce to start.</p>
 
 </details>
+
+
+<details>
+  <summary> <b><font size="+1">Publishing</font></b> </summary>
+
+  <p><a href="https://www.micropublication.org/">Micropublications</a> and <a href="https://www.jyi.org/">Journal of Young Investigators</a> - two different outlets for publishing small projects, such as undergraduate research.</p>
+
+  <p><a href="https://www.overleaf.com/about">Overleaf</a> - this is the platform that the lab generally uses for collaborative paper writing, it involves knowing a bit of LaTeX.</p>
+
+</details>
