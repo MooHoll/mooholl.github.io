@@ -10,7 +10,9 @@ I don't have any advertised projects currently, but I would be happy to support 
 Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowships.
 
 <h2>PhD Students</h2>
-Watch this space, doctoral training partnership adverts will appear about December time.\
+University of Leicester 3.5 year studentship with September 2024 - January 2025 start date, advert coming very soon!\
+
+Doctoral training partnership adverts will appear about December time.\
 [MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)\
 [CENTA](https://centa.ac.uk/)
 
