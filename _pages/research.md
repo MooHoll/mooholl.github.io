@@ -8,9 +8,9 @@ author_profile: true
 ![wasp](../files/wasp.png){:width="250px" .align-right} 
 
 <h3>Transgenerational consequences of environmental exposure</h3>
-Environmental pollution is a major cause of both human disease and species population declines. In order to identify populations most at risk we need to understand not only the individual consequences of pollution exposure but also the transgenerational consequences. Within the lab we use arthropod model species to examine the epigenetic changes caused by pollution and to underdstand how these changes are inherited across generations. 
+Environmental pollution is a major cause of both human disease and species population declines. In order to identify populations most at risk we need to understand not only the individual consequences of pollution exposure but also the transgenerational consequences. Given the long generation time of humans/mammals and the need for ethical practices, we use model arthropod species to examine the epigenetic changes caused by pollution and to underdstand how these changes are inherited across generations. 
 
-Currently the lab has ongoing projects on pesticides and microplastics.
+Currently the lab has ongoing projects on pesticides, herbicices, endocrine disruptors and microplastics.
 
 ---
 
@@ -26,7 +26,7 @@ Currently the lab has ongoing projects on temporal population epigenetics in wat
 <img src="../files/louse.png" alt="louse" style="float:right;width:250px">
 
 <h3>Development of novel pest/parasite epigenetic-targeted treatments</h3>
-In addition to being a major environmental pollutant, pesticides are losing efficacy as species adapt. There is, therefore, a need for novel species-specific remidies. In collaboration with Insect Research and Development Ltd., we are working towards creating the first epigenetic-targeted species-specific treatment of head and body lice. 
+In addition to being a major environmental pollutant, pesticides are losing efficacy as species adapt. There is, therefore, a need for novel species-specific remidies. Head and body lice pose an interesting system, where one ecotype (body lice) transmits disease at a much greater rate compared to the other ecotype (head lice). We're exploring the epigenetic landscape of this system to potentially develop novel pest-control strategies.
 
 ---
 
