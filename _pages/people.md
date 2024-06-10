@@ -5,6 +5,8 @@ permalink: /people/
 author_profile: true
 ---
 
+In addition to the core lab, we associate with a couple of other larger groupings within the department, the Neurogenetics Group and the Applied Population Genomics group. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
+
 <h2>Current Members:</h2>
 Dylan McBride (PhD 2024-): Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease.
 
