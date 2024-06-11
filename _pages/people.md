@@ -7,17 +7,19 @@ author_profile: true
 
 In addition to the core lab, we associate with a couple of other larger groupings within the department, the Neurogenetics Group and the Applied Population Genomics group. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
 
-<h2>Current Members:</h2>
-Dylan McBride (PhD 2024-): Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease.
+<h3>Current Members:</h3>
+<b>Dylan McBride</b> (PhD 2024-): Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease.
 
-Zainab Kanu (MSc Bioinformatics 2024): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.
+<b>Zainab Kanu</b> (MSc Bioinformatics 2024): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.
 
-Joshua Byrne (Summer student 2024): The effect of an arable herbicide on the epigenetic landscape of <i>Daphnia magna</i>.
+<b>Joshua Byrne</b> (Summer student 2024, Edge Hill Opportunity Fund): The effect of an arable herbicide on the epigenetic landscape of <i>Daphnia magna</i>.
+
+<b>Lidia Tembo</b> (Summer student 2024, CENTA REP): Epigenetic effects of pollution on the marine amphipod, <i>Parhyale hawaiensis</i>.
 
 
-<h2>Honorary Members:</h2>
-Tamsin Woodman (PhD 2022-): Laura Ross' lab - The University of Edinburgh
+<h3>Honorary Members:</h3>
+<b>Tamsin Woodman</b> (PhD 2022-): Laura Ross' lab - The University of Edinburgh
 
-Ella Tadmor (PhD 2022-): Shai Morin's lab - The Hebrew University of Jerusalem
+<b>Ella Tadmor</b> (PhD 2022-): Shai Morin's lab - The Hebrew University of Jerusalem
 
-<!-- <h2>Alumni:</h2> -->
+<!-- <h3>Alumni:</h3> -->
