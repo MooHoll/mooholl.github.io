@@ -24,9 +24,9 @@ General project management:
   <summary> <b><font size="+1">Summer Students</font></b> </summary>
 
   <p> Accomodation options: 
-    <a href="https://www.collegiate-ac.com/uk-student-accommodation/leicester/merlin-heights/">Merlin Herights:</a> apparently ~£85pw during the summer.
+    <a href="https://www.collegiate-ac.com/uk-student-accommodation/leicester/merlin-heights/">Merlin Herights:</a> apparently ~£85pw during the summer.\
 
-    <a href="https://www.stgeorgestower.co.uk/">St George's Tower:</a> apparently ~£158pw during the summer.
+    <a href="https://www.stgeorgestower.co.uk/">St George's Tower:</a> apparently ~£158pw during the summer.\
 
     <a href="https://shop.le.ac.uk/product-catalogue/living-in-leicester/accommodation-payments/guest-accommodation-days-1-28">Nixon Court:</a> university halls, £30 per night, all year.
   </p>
