@@ -29,7 +29,10 @@ General project management:
 
     <li><a href="https://www.stgeorgestower.co.uk/">St George's Tower:</a> apparently ~£158pw during the summer.</li>
 
-    <li><a href="https://shop.le.ac.uk/product-catalogue/living-in-leicester/accommodation-payments/guest-accommodation-days-1-28">Nixon Court:</a> university halls, £30 per night, all year.</li>
+    <li><a href="https://roomstwo.le.ac.uk/second_Portal/CasualLets/">University halls:</a> from £14 per night during the summer. Usually the halls on campus aren't available until mid July, but if you email and ask they may have something. Oadby village requires a bus to reach.</li>
+
+    <li><a href="https://shop.le.ac.uk/product-catalogue/living-in-leicester/accommodation-payments/guest-accommodation-days-1-28">Nixon Court:</a> University halls, £30 per night, all year.</li>
+
     </ul>
   </p>
   
