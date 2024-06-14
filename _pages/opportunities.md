@@ -10,7 +10,7 @@ I don't have any advertised projects currently, but I would be happy to support 
 Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowships.
 
 <h2>PhD Students</h2>
-University of Leicester 3.5 year studentship with September 2024 - January 2025 start date, advert coming very soon!\
+University of Leicester 3.5 year studentship with September 2024 - January 2025 start date, advert coming very soon!
 
 Doctoral training partnership adverts will appear about December time.\
 [MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)\
@@ -22,14 +22,14 @@ If you're unsure about doing a PhD or need more experience in order to win a fun
 
 <h2>Funded Undergraduate Summer Placement</h2>
 
-Funded summer placements for UK students usually between their 2nd and 3rd years of study. Please note, I do not take on voluntary/unpaid projects.
+Funded summer placements for UK students usually between their 2nd and 3rd years of study. Please note, I do not take on voluntary/unpaid projects as this is an unfair advantage over those from lower socioeconomic backgrounds who need to work.
 
 [The Genetics Society](https://genetics.org.uk/grants/summer-studentships/) - deadline March.
 
 <!---[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/rep/) - deadline June.\ -->
-[CENTA](https://centa.ac.uk/centa-research-experience-placements-rep-2022/) - deadline tbd.
+[CENTA](https://centa.ac.uk/centa-research-experience-placements-rep-2022/) - deadline usually around May.
 
-If you would be interested in carrying out a summer project in the lab please contact me at least one month before the deadline of the funding you're interested in.
+If you would be interested in carrying out a summer project in the lab please try to contact me at least one month before the deadline of the funding you're interested in.
 
 <h2>Undergraduate and Masters Projects</h2>
 
