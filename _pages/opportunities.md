@@ -10,7 +10,7 @@ I don't have any advertised projects currently, but I would be happy to support 
 Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowships.
 
 <h2>PhD Students</h2>
-[University of Leicester 3.5 year studentship](https://www.dropbox.com/scl/fi/95fssxdb3gnl1x5ej4a3q/CLS-Studentship-2024-Hollie-Marshall.docx?rlkey=4345bpozp5zgwx5xw2c53qwny&st=4xjuqc0o&dl=0) with September 2024 - January 2025 start date, application portal coming online very soon, email me if you're interested.
+[University of Leicester 3.5 year studentship](https://www.dropbox.com/scl/fi/95fssxdb3gnl1x5ej4a3q/CLS-Studentship-2024-Hollie-Marshall.docx?rlkey=4345bpozp5zgwx5xw2c53qwny&st=4xjuqc0o&dl=0) with September 2024 - January 2025 start date. DEADLING July 19th. Informal enquires encouraged: hjm32@leicester.ac.uk. [Apply here.](https://le.ac.uk/study/research-degrees/research-subjects/genetics).
 
 Doctoral training partnership adverts will appear about December time.\
 [MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)\
