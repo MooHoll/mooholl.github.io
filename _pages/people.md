@@ -14,11 +14,11 @@ In addition to the core lab, we associate with a couple of other larger grouping
 
 <b>Joshua Byrne</b> (Summer student 2024, Edge Hill Opportunity Fund): The effect of an arable herbicide on the epigenetic landscape of <i>Daphnia magna</i> and <i>Nasonia vitripennis</i>.
 
-<b>Lidia Tembo</b> (Summer student 2024, CENTA REP): Epigenetic effects of upstream eutrohpication on the marine amphipod, <i>Parhyale hawaiensis</i>.
+<b>Lidia Tembo</b> (Summer student 2024, CENTA REP): Epigenetic effects of upstream eutrohpication in the marine amphipod, <i>Parhyale hawaiensis</i>.
 
-<b>Kane Fortune</b> (Summer student 2024, CENTA REP): Epigenetic effects of microplastics on the marine amphipod, <i>Parhyale hawaiensis</i>.
+<b>Kane Fortune</b> (Summer student 2024, CENTA REP): Epigenetic effects of microplastics in the marine amphipod, <i>Parhyale hawaiensis</i>.
 
-<b>Enioluwa Olawoore</b> (Summer student 2024, Edge Hill Opportunity Fund): Epigenetic effects of pollution on the marine amphipod, <i>Parhyale hawaiensis</i>.
+<b>Enioluwa Olawoore</b> (Summer student 2024, Edge Hill Opportunity Fund): Epigenetic effects of pollution in the marine amphipod, <i>Parhyale hawaiensis</i>.
 
 
 <h2>Honorary Members:</h2>
