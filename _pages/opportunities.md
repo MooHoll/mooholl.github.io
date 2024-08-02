@@ -10,9 +10,8 @@ I don't have any advertised projects currently, but I would be happy to support 
 Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowships.
 
 <h2>PhD Students</h2>
-[University of Leicester 3.5 year studentship](https://www.findaphd.com/phds/project/epigenetic-biomarkers-for-predicting-transgenerational-consequences-of-pollution-exposure/?p167606) with September 2024 - January 2025 start date. DEADLING July 19th. Informal enquires encouraged: hjm32@leicester.ac.uk. [Apply here.](https://le.ac.uk/study/research-degrees/research-subjects/genetics).
 
-Doctoral training partnership adverts will appear about December time.\
+Doctoral training partnership adverts will appear around December time.\
 [MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)\
 [CENTA](https://centa.ac.uk/)
 
