@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-In addition to the core lab, we associate with a couple of other larger groupings within the department, the Neurogenetics Group and the Applied Population Genomics group. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
+In addition to the core lab, we associate with a few larger groupings within the department and University; the Neurogenetics Group, the Applied Population Genomics Group and the Centre for Environmental Health and Sustainability. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
 
 <h2>Current Members:</h2>
 <b>Chloe Cranfield</b> (PhD 2024-): Epigenetic biomarkers for predicting transgenerational consequences of pollution exposure.
