@@ -45,11 +45,10 @@ General project management:
 
   <p><a href="https://www.dropbox.com/scl/fi/gyes214kvtv52wy0w4utt/Stats_cheat_sheet.pdf?rlkey=ehlecso2e6rbxtdl66hki0ryq&dl=0">Stats cheat sheet for R</a> - absolubtly amazing guide to choosing the right stats for your data and even the code for how to do it!</p>
 
-  <p><a href="https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/">Intro to GitHub</a> and why you need it.</p>
+  <p><a href="https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/">Introduction to GitHub</a> and why you need it.</p>
 
   <p><a href="https://alice-docs.le.ac.uk">Guide to ALICE</a> - this is the UoL high performance computing system.</p>
 
-  <p><a href="https://broadinstitute.github.io/2019_scWorkshop/">scRNA-Seq analysis</a> - this is a little old now (2019) but a good palce to start.</p>
 
 </details>
 

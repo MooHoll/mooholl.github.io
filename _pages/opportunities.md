@@ -26,7 +26,7 @@ Funded summer placements for UK students usually between their 2nd and 3rd years
 [The Genetics Society](https://genetics.org.uk/grants/summer-studentships/) - deadline March.
 
 <!---[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/rep/) - deadline June.\ -->
-[CENTA](https://centa.ac.uk/centa-research-experience-placements-rep-2022/) - deadline usually around May.
+<!---[CENTA](https://centa.ac.uk/centa-research-experience-placements-rep-2022/) - deadline usually around May.-->
 
 If you would be interested in carrying out a summer project in the lab please try to contact me at least one month before the deadline of the funding you're interested in.
 
