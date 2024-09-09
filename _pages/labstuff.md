@@ -20,22 +20,18 @@ General project management:
     - google scholar alerts
     -->
 
+
 <details>
-  <summary> <b><font size="+1">Summer Students</font></b> </summary>
+  <summary> <b><font size="+1">Lab Management</font></b> </summary>
 
-  <p> Accomodation options: 
-    <ul>
-    <li><a href="https://www.collegiate-ac.com/uk-student-accommodation/leicester/merlin-heights/">Merlin Herights:</a> apparently ~£85pw during the summer.</li>
+  <p><a href="https://www.dropbox.com/scl/fi/whu1vq9nthqie1lglhbh9/PhD_starter_guide_2024.docx?rlkey=79sv6ebzy4bxnhohg2syeln91&st=8ue6a3b4&dl=0">Lab Handbook</a> - document setting out the lab culture with various bits of useful info.</p>
 
-    <li><a href="https://www.stgeorgestower.co.uk/">St George's Tower:</a> apparently ~£158pw during the summer.</li>
+  <p><a href="https://supervision.ukcge.ac.uk/">PhD Supervisor Accreditation</a> - UK Council for Graduate Education guide to PhD supervison, you can apply for accreditation, like Fellowship to the HEA.</p>
 
-    <li><a href="https://roomstwo.le.ac.uk/second_Portal/CasualLets/">University halls:</a> Usually the halls on campus aren't available until mid July, but if you email and ask they may have something. This option is for Uni of Leicester students only.</li>
+  <p>Supervisor expectations: <a href="https://www.dropbox.com/scl/fi/r09ixdjhidctn1jvfiskv/SUPERVISOR-EXPECTATIONS.pdf?rlkey=om785fqo5kk6awfibuuh2kdii&st=fqa9up21&dl=0">sheet 1</a>, <a href="https://www.dropbox.com/scl/fi/b6yhpdtqkh7dillm81erw/Expectations-of-research-supervision.pdf?rlkey=0eflwifr48oyg2yfrv0uu89ec&st=w23fa4my&dl=0">sheet 2</a> and <a href="https://www.dropbox.com/scl/fi/qrzh3ksadfpeotnu1m5ad/establishing-a-good-relationship-from-the-beginning-2017.pdf?rlkey=qzlo1ia0nmu3i8t6nzwg6p9j9&st=ccu34lpk&dl=0">sheet 3</a> - worksheets to use with new PhD students to establish expectations.</p>
 
-    <li><a href="https://shop.le.ac.uk/product-catalogue/living-in-leicester/accommodation-payments/guest-accommodation-days-1-28">Nixon Court:</a> University halls, £40 per night, all year.</li>
+  <p><a href="http://macromuseum.github.io/application-advice/">Postdoc inclusive hiring</a> - blog post dicussing how to hire a postdoc in a fair and inclusive way</p>
 
-    </ul>
-  </p>
-  
 </details>
 
 <details>
@@ -62,16 +58,20 @@ General project management:
 
 </details>
 
-
 <details>
-  <summary> <b><font size="+1">Lab Management</font></b> </summary>
+  <summary> <b><font size="+1">Summer Students</font></b> </summary>
 
-  <p><a href="https://www.dropbox.com/scl/fi/whu1vq9nthqie1lglhbh9/PhD_starter_guide_2024.docx?rlkey=79sv6ebzy4bxnhohg2syeln91&st=8ue6a3b4&dl=0">Lab Handbook</a> - document setting out the lab culture with various bits of useful info.</p>
+  <p> Accomodation options: 
+    <ul>
+    <li><a href="https://www.collegiate-ac.com/uk-student-accommodation/leicester/merlin-heights/">Merlin Herights:</a> apparently ~£85pw during the summer.</li>
 
-  <p><a href="https://supervision.ukcge.ac.uk/">PhD Supervisor Accreditation</a> - UK Council for Graduate Education guide to PhD supervison, you can apply for accreditation, like Fellowship to the HEA.</p>
+    <li><a href="https://www.stgeorgestower.co.uk/">St George's Tower:</a> apparently ~£158pw during the summer.</li>
 
-  <p>Supervisor expectations: <a href="https://www.dropbox.com/scl/fi/r09ixdjhidctn1jvfiskv/SUPERVISOR-EXPECTATIONS.pdf?rlkey=om785fqo5kk6awfibuuh2kdii&st=fqa9up21&dl=0">sheet 1</a>, <a href="https://www.dropbox.com/scl/fi/b6yhpdtqkh7dillm81erw/Expectations-of-research-supervision.pdf?rlkey=0eflwifr48oyg2yfrv0uu89ec&st=w23fa4my&dl=0">sheet 2</a> and <a href="https://www.dropbox.com/scl/fi/qrzh3ksadfpeotnu1m5ad/establishing-a-good-relationship-from-the-beginning-2017.pdf?rlkey=qzlo1ia0nmu3i8t6nzwg6p9j9&st=ccu34lpk&dl=0">sheet 3</a> - worksheets to use with new PhD students to establish expectations.</p>
+    <li><a href="https://roomstwo.le.ac.uk/second_Portal/CasualLets/">University halls:</a> Usually the halls on campus aren't available until mid July, but if you email and ask they may have something. This option is for Uni of Leicester students only.</li>
 
-  <p><a href="http://macromuseum.github.io/application-advice/">Postdoc inclusive hiring</a> - blog post dicussing how to hire a postdoc in a fair and inclusive way</p>
+    <li><a href="https://shop.le.ac.uk/product-catalogue/living-in-leicester/accommodation-payments/guest-accommodation-days-1-28">Nixon Court:</a> University halls, £40 per night, all year.</li>
 
+    </ul>
+  </p>
+  
 </details>
