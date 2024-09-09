@@ -7,9 +7,11 @@ author_profile: true
 
 <h2>Research Talks</h2>
 
-[Genomic Imprinting Seminar](https://drive.google.com/file/d/1PWxLNohCZ-faPsJ9vjZ_i94NHu4k9Hgh/view?usp=share_link) - The role of epigenetics in evolutionary processes. - 2023.
+[Joint Evolution Conference](https://www.youtube.com/watch?v=yWGk42AZJVA&t=1481s), slides [here](https://www.dropbox.com/scl/fi/j1grsvcv1n908dlszmy5n/Evolution_July2024.pptx?rlkey=wwrxa770ilb18anbfennlyv68&st=ggydwnwk&dl=0) - DNA methylation as a driver for genomic adaptation across evolutionary timescales - 2024.
 
-[IUSSI Conference Talk](https://drive.google.com/file/d/1KOkr_Z9SRdeETmTzohXJey66G6bj_rkw/view?usp=sharing) - Epigenetic mechanisms of genomic imprinting in bumblebees - 2022.
+[Genomic Imprinting Seminar](https://drive.google.com/file/d/1PWxLNohCZ-faPsJ9vjZ_i94NHu4k9Hgh/view?usp=share_link) - The role of epigenetics in evolutionary processes - 2023.
+
+[IUSSI Conference](https://drive.google.com/file/d/1KOkr_Z9SRdeETmTzohXJey66G6bj_rkw/view?usp=sharing) - Epigenetic mechanisms of genomic imprinting in bumblebees - 2022.
 
 [Doctoral Inaugural Lecture: University of Leicester](https://www.youtube.com/watch?v=mK8orMPBmFk) - Imprinted genes in bumblebees may explain why workers commit treason - 2021.
 
