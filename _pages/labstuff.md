@@ -61,3 +61,17 @@ General project management:
   <p><a href="https://www.overleaf.com/about">Overleaf</a> - this is the platform that the lab generally uses for collaborative paper writing, it involves knowing a bit of LaTeX.</p>
 
 </details>
+
+
+<details>
+  <summary> <b><font size="+1">Lab Management</font></b> </summary>
+
+  <p><a href="https://www.dropbox.com/scl/fi/whu1vq9nthqie1lglhbh9/PhD_starter_guide_2024.docx?rlkey=79sv6ebzy4bxnhohg2syeln91&st=8ue6a3b4&dl=0">Lab Handbook</a> - document setting out the lab culture with various bits of useful info.</p>
+
+  <p><a href="https://supervision.ukcge.ac.uk/">PhD Supervisor Accreditation</a> - UK Council for Graduate Education guide to PhD supervison, you can apply for accreditation, like Fellowship to the HEA.</p>
+
+  <p>Supervisor expectations: <a href="https://www.dropbox.com/scl/fi/r09ixdjhidctn1jvfiskv/SUPERVISOR-EXPECTATIONS.pdf?rlkey=om785fqo5kk6awfibuuh2kdii&st=fqa9up21&dl=0">sheet 1</a>, <a href="https://www.dropbox.com/scl/fi/b6yhpdtqkh7dillm81erw/Expectations-of-research-supervision.pdf?rlkey=0eflwifr48oyg2yfrv0uu89ec&st=w23fa4my&dl=0">sheet 2</a> and <a href="https://www.dropbox.com/scl/fi/qrzh3ksadfpeotnu1m5ad/establishing-a-good-relationship-from-the-beginning-2017.pdf?rlkey=qzlo1ia0nmu3i8t6nzwg6p9j9&st=ccu34lpk&dl=0">sheet 3</a> - worksheets to use with new PhD students to establish expectations.</p>
+
+  <p><a href="http://macromuseum.github.io/application-advice/">Postdoc inclusive hiring</a> - blog post dicussing how to hire a postdoc in a fair and inclusive way</p>
+
+</details>
