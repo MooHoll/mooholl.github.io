@@ -9,6 +9,7 @@ author_profile: true
 
 Here are some of my favourite societies. Societies are useful to join as they usually offer travel and training grants for students. They also provide a platform for networking and keeping up to date on new research in their respective fields. Pro tip: don't pay for membership out of your own pocket, use your PhD/grant funding.
 
+- [Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/)
 - [The European Society for Evolutionary Biology](https://eseb.org)
 - [The Genetics Society](https://genetics.org.uk)
 - [British Ecological Society](https://www.britishecologicalsociety.org)
