@@ -12,8 +12,11 @@ Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowsh
 <h2>PhD Students</h2>
 
 Doctoral training partnership adverts will appear around December time.\
-[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)\
-[CENTA](https://centa.ac.uk/)
+[CENTA](https://centa.ac.uk/)\
+[Multigenetational epigenetic consequences of pollution exposure in wild fish populations.](https://centa.ac.uk/studentship/2025-l10-multigenerational-epigenetic-consequences-of-pollution-exposure-in-wild-fish-populations/) DEADLINE: 8th January 2025.
+
+[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)
+
 
 <h2>Masters by Research</h2>
 
