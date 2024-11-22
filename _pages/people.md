@@ -12,6 +12,8 @@ In addition to the core lab, we associate with a few larger groupings within the
 
 <b>Dylan McBride</b> (PhD 2024-): Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease.
 
+<b>Ewan Edwards</b> (Natural Sciences BSc 2024-2025): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.
+
 <h2>Honorary Members:</h2>
 <b>Tamsin Woodman</b> (PhD 2022-): Laura Ross' lab - The University of Edinburgh
 
