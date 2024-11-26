@@ -15,7 +15,8 @@ Doctoral training partnership adverts will appear around December time.\
 [CENTA](https://centa.ac.uk/)\
 [Multigenetational epigenetic consequences of pollution exposure in wild fish populations.](https://centa.ac.uk/studentship/2025-l10-multigenerational-epigenetic-consequences-of-pollution-exposure-in-wild-fish-populations/) DEADLINE: 8th January 2025.
 
-[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)\[Transgenerational epigenetic consequences of pollution exposure.](https://le.ac.uk/study/research-degrees/funded-opportunities/bbsrc-mibtp) DEADLINE: 16th January 2025.
+[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)\
+[Transgenerational epigenetic consequences of pollution exposure.](https://le.ac.uk/study/research-degrees/funded-opportunities/bbsrc-mibtp) DEADLINE: 16th January 2025.
 
 
 <h2>Masters by Research</h2>
