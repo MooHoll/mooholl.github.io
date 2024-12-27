@@ -11,7 +11,10 @@ Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowsh
 
 <h2>PhD Students</h2>
 
-Doctoral training partnership adverts will appear around December time.\
+[Tips for getting a PhD.](https://www.dropbox.com/scl/fi/v17vvn5vx1i7mz3j8aggb/Pro-tips-for-getting-a-PhD-in-the-UK.pptx?rlkey=hlo2z1rnr8wyluycetpfn7ee4&st=rscos63u&dl=0)
+
+<!--Doctoral training partnership adverts will appear around November/December time.\-->
+Open positions:\
 [CENTA](https://centa.ac.uk/)\
 [Multigenetational epigenetic consequences of pollution exposure in wild fish populations.](https://centa.ac.uk/studentship/2025-l10-multigenerational-epigenetic-consequences-of-pollution-exposure-in-wild-fish-populations/) DEADLINE: 8th January 2025.
 
@@ -22,6 +25,7 @@ Doctoral training partnership adverts will appear around December time.\
 <h2>Masters by Research</h2>
 
 If you're unsure about doing a PhD or need more experience in order to win a funded PhD studentship, an MSc by Research can be a good choice. These are usually 1yr full-time (2yrs part-time) 100% research degrees where you write up a thesis at the end (like a mini-PhD). These usually aren't advertised on University websites but we can make them happen. Send me an email if you're interested in this option. 
+
 
 <h2>Funded Undergraduate Summer Placement</h2>
 
