@@ -8,6 +8,8 @@ author_profile: true
 In addition to the core lab, we associate with a few larger groupings within the department and University; the Neurogenetics Group, the Applied Population Genomics Group and the Centre for Environmental Health and Sustainability. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
 
 <h2>Current Members:</h2>
+<b>Vaishnavi Waman</b> (Molecular Genetics MSc 2025): Multigenerational epigenetic effects of pesticide exposure in <i>Nasonia vitripennis</i>.
+
 <b>Adam Dallin</b> (Molecular Genetics MSc 2025): Sex-specific epigenetic consequences of exposure to emerging pollutants. 
 
 <b>Naomi Musto</b> (Bioinformatics MBiolSci 2025): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.
