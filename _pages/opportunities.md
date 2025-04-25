@@ -13,11 +13,13 @@ Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowsh
 
 [Tips for getting a PhD.](https://www.dropbox.com/scl/fi/v17vvn5vx1i7mz3j8aggb/Pro-tips-for-getting-a-PhD-in-the-UK.pptx?rlkey=hlo2z1rnr8wyluycetpfn7ee4&st=rscos63u&dl=0)
 
-Doctoral training partnership adverts will appear around November/December time.\
+Doctoral training partnership adverts will appear around November/December time.
 
-[CENTA](https://centa.ac.uk/)\
+[CENTA](https://centa.ac.uk/)
 
-[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)\
+[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)
+
+[FSBI](https://fsbi.org.uk/phd-studentships-fsbi/)
 
 
 
@@ -31,6 +33,8 @@ If you're unsure about doing a PhD or need more experience in order to win a fun
 Funded summer placements for UK students usually between their 2nd and 3rd years of study. Please note, I do not take on voluntary/unpaid projects as this is an unfair advantage over those from lower socioeconomic backgrounds who need to work.
 
 [The Genetics Society](https://genetics.org.uk/grants/summer-studentships/) - deadline March.
+
+[FSBI](https://fsbi.org.uk/internships/) - deadline March.
 
 <!---[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/rep/) - deadline June.\ -->
 <!---[CENTA](https://centa.ac.uk/centa-research-experience-placements-rep-2022/) - deadline usually around May.-->
