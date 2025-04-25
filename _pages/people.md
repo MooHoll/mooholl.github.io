@@ -33,22 +33,17 @@ In addition to the core lab, we associate with a few larger groupings within the
 <b>Ella Tadmor</b> (PhD 2022-): Shai Morin's lab - The Hebrew University of Jerusalem
 
 
-<details>
-  <summary> <b><font size="+1">Past Members:</font></b> </summary>
+<h2>Past Members:</h2>
+<b>Naomi Musto</b> (MBiolSci 2025, Bioinformatics): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.
 
-<p><b>Naomi Musto</b> (MBiolSci 2025, Bioinformatics): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.</p>
+<b>Ewan Edwards</b> (BSc 2024-2025, Natural Sciences): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.
 
-<p><b>Ewan Edwards</b> (BSc 2024-2025, Natural Sciences): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.</p>
+<b>Zainab Kanu</b> (MSc 2024, Bioinformatics): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.
 
-<p><b>Zainab Kanu</b> (MSc 2024, Bioinformatics): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.</p>
+<b>Enioluwa Olawoore</b> (Summer student 2024, Edge Hill Opportunity Fund): Epigenetic effects of pollution in the marine amphipod, <i>Parhyale hawaiensis</i>.
 
-<p><b>Enioluwa Olawoore</b> (Summer student 2024, Edge Hill Opportunity Fund): Epigenetic effects of pollution in the marine amphipod, <i>Parhyale hawaiensis</i>.</p>
+<b>Lidia Tembo</b> (Summer student 2024, CENTA REP): Epigenetic effects of upstream eutrohpication in the marine amphipod, <i>Parhyale hawaiensis</i>.
 
-<p><b>Lidia Tembo</b> (Summer student 2024, CENTA REP): Epigenetic effects of upstream eutrohpication in the marine amphipod, <i>Parhyale hawaiensis</i>.</p>
+<b>Kane Fortune</b> (Summer student 2024, CENTA REP): Epigenetic effects of microplastics in the marine amphipod, <i>Parhyale hawaiensis</i>.
 
-<p><b>Kane Fortune</b> (Summer student 2024, CENTA REP): Epigenetic effects of microplastics in the marine amphipod, <i>Parhyale hawaiensis</i>.</p>
-
-<p><b>Joshua Byrne</b> (Summer student 2024, Edge Hill Opportunity Fund): The effect of an arable herbicide on the epigenetic landscape of <i>Daphnia magna</i> and <i>Nasonia vitripennis</i>.</p>
-
-</details>
-
+<b>Joshua Byrne</b> (Summer student 2024, Edge Hill Opportunity Fund): The effect of an arable herbicide on the epigenetic landscape of <i>Daphnia magna</i> and <i>Nasonia vitripennis</i>.
