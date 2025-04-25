@@ -13,13 +13,12 @@ Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowsh
 
 [Tips for getting a PhD.](https://www.dropbox.com/scl/fi/v17vvn5vx1i7mz3j8aggb/Pro-tips-for-getting-a-PhD-in-the-UK.pptx?rlkey=hlo2z1rnr8wyluycetpfn7ee4&st=rscos63u&dl=0)
 
-<!--Doctoral training partnership adverts will appear around November/December time.\-->
-Open positions:\
+Doctoral training partnership adverts will appear around November/December time.\
+
 [CENTA](https://centa.ac.uk/)\
-[Multigenetational epigenetic consequences of pollution exposure in wild fish populations.](https://centa.ac.uk/studentship/2025-l10-multigenerational-epigenetic-consequences-of-pollution-exposure-in-wild-fish-populations/) DEADLINE: 8th January 2025.
 
 [MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)\
-[Transgenerational epigenetic consequences of pollution exposure.](https://le.ac.uk/study/research-degrees/funded-opportunities/bbsrc-mibtp) DEADLINE: 16th January 2025.
+
 
 
 <h2>Masters by Research</h2>
