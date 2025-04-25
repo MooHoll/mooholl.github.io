@@ -12,10 +12,6 @@ In addition to the core lab, we associate with a few larger groupings within the
 
 <b>Adam Dallin</b> (Molecular Genetics MSc 2025): Sex-specific epigenetic consequences of exposure to emerging pollutants. 
 
-<b>Naomi Musto</b> (Bioinformatics MBiolSci 2025): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.
-
-<b>Ewan Edwards</b> (Natural Sciences BSc 2024-2025): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.
-
 <b>Chloe Cranfield</b> (PhD 2024-): Epigenetic biomarkers for predicting transgenerational consequences of pollution exposure.
 
 <b>Dylan McBride</b> (PhD 2024-): Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease.
@@ -28,6 +24,10 @@ In addition to the core lab, we associate with a few larger groupings within the
 
 
 <h2>Past Members:</h2>
+<b>Naomi Musto</b> (Bioinformatics MBiolSci 2025): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.
+
+<b>Ewan Edwards</b> (Natural Sciences BSc 2024-2025): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.
+
 <b>Zainab Kanu</b> (MSc Bioinformatics 2024): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.
 
 <b>Enioluwa Olawoore</b> (Summer student 2024, Edge Hill Opportunity Fund): Epigenetic effects of pollution in the marine amphipod, <i>Parhyale hawaiensis</i>.
