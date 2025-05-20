@@ -10,9 +10,9 @@ In addition to the core lab, we associate with a few larger groupings within the
 <h2>Current Members:</h2>
 <!-- <b>Cara Dixon</b> (Summer student 2025, UoL SURE): Studying the phenotypic and epigenetic responses in the pollinator <i>Bombus terrestris</i> under Martian conditions: implications for Mars habitability. -->
 
-<!-- <b>Dyuti Banerjee</b> (MSc 2025, Molecular Genetics): XXX. -->
+<b>Dyuti Banerjee</b> (MSc 2025, Molecular Genetics): Pollutant-induced epigenetic changes in the <i>MLH1</i> gene in <i>Nasonia vitripennis</i>.
 
-<!-- <b>Mitch Wosinski</b> (MSc 2025, Bioinformatics): How robust is the epigentic clock in <i>Daphnia magna</i>? -->
+<b>Mitch Wosinski</b> (MSc 2025, Bioinformatics): How robust is the epigentic clock in <i>Daphnia magna</i>?
 
 <!-- <b>Cara Dixon</b> (PhD 2025-2029, MIBTP): XXX. -->
 
