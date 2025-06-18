@@ -8,15 +8,15 @@ author_profile: true
 In addition to the core lab, we associate with a few larger groupings within the department and University; the Neurogenetics Group, the Applied Population Genomics Group and the Centre for Environmental Health and Sustainability. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
 
 <h2>Current Members:</h2>
-<!-- <b>Cara Dixon</b> (Summer student 2025, UoL SURE): Studying the phenotypic and epigenetic responses in the pollinator <i>Bombus terrestris</i> under Martian conditions: implications for Mars habitability. -->
+<b>Cara Dixon</b> (Summer student 2025, UoL SURE): Studying the phenotypic and epigenetic responses in the pollinator <i>Bombus terrestris</i> under Martian conditions: implications for Mars habitability.
 
 <b>Dyuti Banerjee</b> (MSc 2025, Molecular Genetics): Pollutant-induced epigenetic changes in the <i>MLH1</i> gene in <i>Nasonia vitripennis</i>.
 
 <b>Mitch Wosinski</b> (MSc 2025, Bioinformatics): How robust is the epigentic clock in <i>Daphnia magna</i>?
 
-<!-- <b>Cara Dixon</b> (PhD 2025-2029, MIBTP): XXX. -->
+<!-- <b>Cara Dixon</b> (PhD 2025-2029, MIBTP): Transgenerational epigentic consequences of pollution exposure in wild butterfly populations. -->
 
-<!-- <b>Dayna Cottam</b> (PhD 2025-2029, CENTA): Multigenerational epigenetic consequences of pollution exposure in wild fish populations. -->
+<!-- <b>Dayna Cottam</b> (PhD 2025-2029, CENTA): Multigenerational epigenetic consequences of pollution exposure in wild fish populations (Angling Trust CASE Studentship). -->
 
 <b>Vaishnavi Waman</b> (MSc 2025, Molecular Genetics): Multigenerational epigenetic effects of pesticide exposure in <i>Nasonia vitripennis</i>.
 
