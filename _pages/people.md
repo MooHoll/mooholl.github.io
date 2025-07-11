@@ -20,8 +20,6 @@ In addition to the core lab, we associate with a few larger groupings within the
 
 <b>Vaishnavi Waman</b> (MSc 2025, Molecular Genetics): Multigenerational epigenetic effects of pesticide exposure in <i>Nasonia vitripennis</i>.
 
-<b>Adam Dallin</b> (MSc 2025, Molecular Genetics): Sex-specific epigenetic consequences of exposure to emerging pollutants in arthropods. 
-
 <b>Chloe Cranfield</b> (PhD 2024-2028, CEHS): Epigenetic biomarkers for predicting transgenerational consequences of pollution exposure.
 
 <b>Dylan McBride</b> (PhD 2024-2028, Eileen Cowan Fund): Non-genetic mechanisms as predictors of environmentally-induced transgenerational disease.
@@ -34,6 +32,8 @@ In addition to the core lab, we associate with a few larger groupings within the
 
 
 <h2>Past Members:</h2>
+<b>Adam Dallin</b> (MSc 2025, Molecular Genetics): Sex-specific epigenetic consequences of exposure to emerging pollutants in arthropods. 
+
 <b>Naomi Musto</b> (MBiolSci 2025, Bioinformatics): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.
 
 <b>Ewan Edwards</b> (BSc 2024-2025, Natural Sciences): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.
