@@ -24,7 +24,7 @@ General project management:
 <details>
   <summary> <b><font size="+1">Lab Management</font></b> </summary>
 
-  <p><a href="https://www.dropbox.com/scl/fi/whu1vq9nthqie1lglhbh9/PhD_starter_guide_2024.docx?rlkey=79sv6ebzy4bxnhohg2syeln91&st=2b0eq7wb&dl=0">Lab Handbook</a> - document setting out the lab culture with various bits of useful info.</p>
+  <p><a href="https://www.dropbox.com/scl/fi/e8a2nu44kr8pfisf2v0eo/PhD_starter_guide_2025.docx?rlkey=sf763g9amofnh5s17f5xd63v4&st=n0ba66nu&dl=0">Lab Handbook</a> - document setting out the lab culture with various bits of useful info.</p>
 
   <p><a href="https://www.dropbox.com/scl/fi/8korwhylhct3csjh9pc43/5349f471-aa05-4f51-aa72-f72c09f093e0_22492_-_adrian_liston_v2.pdf?rlkey=u2bumq2jsp1t8f94k07payll1&st=1ilusoun&dl=0">Nurturing a postive research culture within your laboratory</a> - Liston and Fitzgerald (2024).</p>
 
