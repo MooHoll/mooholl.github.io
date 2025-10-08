@@ -12,7 +12,8 @@ Here you can find various applications, both successful and unsuccessful as well
 
   <p><a href="https://www.overleaf.com/read/dqxkdyfxfqsj">Condensed CV</a> on the Overleaf platform. You can also access the LaTeX code.</p>
 
-  <p><a href="https://www.overleaf.com/read/xyhzbnmtmppp">Full CV</a> with everything itemised.</p>
+  <p><a href="https://www.overleaf.com/read/hqjfznbcjmrw#693fa2">"Shadow" CV</a> with all applied for grants / jobs.</p>
+
 
 </details>
 
