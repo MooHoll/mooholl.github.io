@@ -9,6 +9,10 @@ In addition to the core lab, we associate with a few larger groupings within the
 
 <h2>Current Members:</h2>
 
+<b>Nidhi Nayyar</b> (BSc 2025-2026): Epigenetic and phenotypic consequences of Glyphosate exposure - testing a novel exposure method in <i>Nasonia vitripennis</i>.
+
+<b>Hayat Sirageldin-Elamin</b> (BSc 2025-2026): Epigenetic and phenotypic consequences of flouride exposure in <i>Nasonia vitripennis</i>.
+
 <b>Dyuti Banerjee</b> (MSc 2025, Molecular Genetics): Pollutant-induced epigenetic changes in the <i>MLH1</i> gene in <i>Nasonia vitripennis</i>.
 
 <b>Cara Dixon</b> (PhD 2025-2029, MIBTP): Pollution-induced epigenetic changes in the Painted Lady butterfly.
