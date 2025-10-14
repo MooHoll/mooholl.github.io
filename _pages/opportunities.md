@@ -17,7 +17,9 @@ Doctoral training partnership adverts will appear around November/December time.
 
 [CENTA](https://centa.ac.uk/)
 
-[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/)
+[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/) **DEADLINE: November 27th 2025**\\
+Using resurrected crustaceans to understand how ancestral exposure to pollution affects epigenetic biomarkers of transgenerational health. [Apply here.](https://le.ac.uk/study/research-degrees/funded-opportunities/bbsrc-mibtp)
+
 
 [FSBI](https://fsbi.org.uk/phd-studentships-fsbi/)
 
