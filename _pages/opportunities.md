@@ -15,11 +15,11 @@ Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowsh
 
 Doctoral training partnership adverts will appear around November/December time.
 
-[CENTA](https://centa.ac.uk/)
+[CENTA](https://centa.ac.uk/) **DEADLINE: January 7th 2026**\\
+PRedicting transgenerational health of wild populations from epigenetic biomarkers. [Apply here.](https://centa.ac.uk/studentship/2026-l07-predicting-transgenerational-health-of-wild-populations-from-epigenetic-biomarkers/)
 
 [MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/) **DEADLINE: November 27th 2025**\\
 Using resurrected crustaceans to understand how ancestral exposure to pollution affects epigenetic biomarkers of transgenerational health. [Apply here.](https://le.ac.uk/study/research-degrees/funded-opportunities/bbsrc-mibtp)
-
 
 [FSBI](https://fsbi.org.uk/phd-studentships-fsbi/)
 
