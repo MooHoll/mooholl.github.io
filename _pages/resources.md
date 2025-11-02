@@ -10,7 +10,7 @@ Here you can find various applications, both successful and unsuccessful as well
 <details>
   <summary> <b><font size="+1">Current CV</font></b> </summary>
 
-  <p><a href="https://www.overleaf.com/read/dqxkdyfxfqsj">Condensed CV</a> on the Overleaf platform. You can also access the LaTeX code.</p>
+  <p><a href="https://www.dropbox.com/scl/fi/0l2cn4cnqnt7fqyq8y697/CV_Nov2025_HM.pdf?rlkey=fgojfnqfnb7grbbqzkz14bxbr&st=4snedlwb&dl=0">Full CV</a> updated Nov 2025.</p>
 
   <p><a href="https://www.overleaf.com/read/hqjfznbcjmrw#693fa2">"Shadow" CV</a> with all applied for grants / jobs.</p>
 
