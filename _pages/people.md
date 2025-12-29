@@ -8,12 +8,11 @@ author_profile: true
 In addition to the core lab, we associate with a few larger groupings within the Division and University; the Functional Genetics Group, the Applied Population Genomics Group and the Centre for Environmental Health and Sustainability. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
 
 <h2>Current Members:</h2>
+<b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): TBD.
 
-<b>Nidhi Nayyar</b> (BSc 2025-2026): Epigenetic and phenotypic consequences of Glyphosate exposure - testing a novel exposure method in <i>Nasonia vitripennis</i>.
+<b>Nina Da Fonseca Marques</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
 
-<b>Hayat Sirageldin-Elamin</b> (BSc 2025-2026): Epigenetic and phenotypic consequences of flouride exposure in <i>Nasonia vitripennis</i>.
-
-<b>Dyuti Banerjee</b> (MSc 2025, Molecular Genetics): Pollutant-induced epigenetic changes in the <i>MLH1</i> gene in <i>Nasonia vitripennis</i>.
+<b>Farayola Lewis</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
 
 <b>Cara Dixon</b> (PhD 2025-2029, MIBTP): Pollution-induced epigenetic changes in the Painted Lady butterfly.
 
@@ -31,6 +30,12 @@ In addition to the core lab, we associate with a few larger groupings within the
 
 
 <h2>Past Members:</h2>
+<b>Nidhi Nayyar</b> (BSc 2025): Epigenetic and phenotypic consequences of Glyphosate exposure - testing a novel exposure method in <i>Nasonia vitripennis</i>.
+
+<b>Hayat Sirageldin-Elamin</b> (BSc 2025): Epigenetic and phenotypic consequences of flouride exposure in <i>Nasonia vitripennis</i>.
+
+<b>Dyuti Banerjee</b> (MSc 2025, Molecular Genetics): Pollutant-induced epigenetic changes in the <i>MLH1</i> gene in <i>Nasonia vitripennis</i>.
+
 <b>Vaishnavi Waman</b> (MSc 2025, Molecular Genetics): Multigenerational epigenetic effects of pesticide exposure in <i>Nasonia vitripennis</i>.
 
 <b>Mitch Wosinski</b> (MSc 2025, Bioinformatics): How robust is the epigentic clock in <i>Daphnia magna</i>?
@@ -41,7 +46,7 @@ In addition to the core lab, we associate with a few larger groupings within the
 
 <b>Naomi Musto</b> (MBiolSci 2025, Bioinformatics): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.
 
-<b>Ewan Edwards</b> (BSc 2024-2025, Natural Sciences): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.
+<b>Ewan Edwards</b> (BSc 2024, Natural Sciences): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.
 
 <b>Zainab Kanu</b> (MSc 2024, Bioinformatics): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.
 
