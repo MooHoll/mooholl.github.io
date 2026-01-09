@@ -11,17 +11,17 @@ Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowsh
 
 <h2>PhD Students</h2>
 
-[Tips for getting a PhD.](https://www.dropbox.com/scl/fi/v17vvn5vx1i7mz3j8aggb/Pro-tips-for-getting-a-PhD-in-the-UK.pptx?rlkey=hlo2z1rnr8wyluycetpfn7ee4&st=rscos63u&dl=0)
+[Tips for getting a PhD in the UK.](https://www.dropbox.com/scl/fi/v17vvn5vx1i7mz3j8aggb/Pro-tips-for-getting-a-PhD-in-the-UK.pptx?rlkey=hlo2z1rnr8wyluycetpfn7ee4&st=rscos63u&dl=0)
 
-Doctoral training partnership adverts will appear around November/December time.
+Doctoral training partnership adverts will appear around October-December time.
 
-[CENTA](https://centa.ac.uk/) **DEADLINE: January 7th 2026**\\
-Predicting transgenerational health of wild populations from epigenetic biomarkers. [Apply here.](https://centa.ac.uk/studentship/2026-l07-predicting-transgenerational-health-of-wild-populations-from-epigenetic-biomarkers/)
+[CENTA](https://centa.ac.uk/) - environmental-application focused
 
-[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/) **DEADLINE: November 27th 2025**\\
-Using resurrected crustaceans to understand how ancestral exposure to pollution affects epigenetic biomarkers of transgenerational health. [Apply here.](https://le.ac.uk/study/research-degrees/funded-opportunities/bbsrc-mibtp)
+[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/) - molecular biology focused
 
-[FSBI](https://fsbi.org.uk/phd-studentships-fsbi/)
+[FSBI](https://fsbi.org.uk/phd-studentships-fsbi/) - fish biology only
+
+[CSC](https://www.csc.edu.cn/) - Chinese citizenship only
 
 
 
@@ -31,6 +31,8 @@ If you're unsure about doing a PhD or need more experience in order to win a fun
 
 
 <h2>Funded Undergraduate Summer Placement</h2>
+
+**NOTE: I am not taking any summer placement students during 2026.**
 
 Funded summer placements for UK students usually between their 2nd and 3rd years of study. Please note, I do not take on voluntary/unpaid projects as this is an unfair advantage over those from lower socioeconomic backgrounds who need to work.
 
