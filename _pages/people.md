@@ -5,9 +5,9 @@ permalink: /people/
 author_profile: true
 ---
 
-![inclusive lab](images/inclusive_lab.png){:height="80%" width="80%" .center-image} 
+![inclusive lab](../images/inclusive_lab.png){:height="80%" width="80%" .center-image} 
 
-In addition to the core lab, we associate with a few larger groupings within the Division and University; the Functional Genetics Group, the Applied Population Genomics Group and the Centre for Environmental Health and Sustainability. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
+In addition to the core lab, we are part of an active Division/School with multiple seminar series and a thriving PhD culture. At University level, we associate with the Institute for Environmental Futures and the Centre for Environmental Health and Sustainability. These groups provide a rich interdisciplinary and social environment.
 
 <h2>Current Members:</h2>
 <b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.
