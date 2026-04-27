@@ -5,11 +5,13 @@ permalink: /people/
 author_profile: true
 ---
 
-![inclusive lab](../images/inclusive_lab.png){:height="80%" width="100%" .center-image} 
+![inclusive lab](../images/inclusive_lab.png){:height="75%" width="100%" .center-image} 
 
 In addition to the core lab, we are part of an active Division/School with multiple seminar series and a thriving PhD culture. At University level, we associate with the Institute for Environmental Futures and the Centre for Environmental Health and Sustainability. These groups provide a rich interdisciplinary and social environment.
 
 <h2>Current Members:</h2>
+<b>Dyuti Banerjee</b> (PhD 2026-2030, CENTA): DNA methylation as an environmentally-sensitve mutagen.
+
 <b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.
 
 <b>Cara Dixon</b> (PhD 2025-2029, MIBTP): Pollution-induced epigenetic changes in the Painted Lady butterfly.
