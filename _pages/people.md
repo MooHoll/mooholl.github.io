@@ -5,6 +5,8 @@ permalink: /people/
 author_profile: true
 ---
 
+![research overview](images/inclusive_lab.png){:height="80%" width="80%" .center-image} 
+
 In addition to the core lab, we associate with a few larger groupings within the Division and University; the Functional Genetics Group, the Applied Population Genomics Group and the Centre for Environmental Health and Sustainability. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
 
 <h2>Current Members:</h2>
