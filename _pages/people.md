@@ -5,16 +5,12 @@ permalink: /people/
 author_profile: true
 ---
 
-![research overview](images/inclusive_lab.png){:height="80%" width="80%" .center-image} 
+![inclusive lab](images/inclusive_lab.png){:height="80%" width="80%" .center-image} 
 
 In addition to the core lab, we associate with a few larger groupings within the Division and University; the Functional Genetics Group, the Applied Population Genomics Group and the Centre for Environmental Health and Sustainability. These groups provide a rich intellectual and social environment, with weekly seminars from group members and an annual retreat somewhere scenic.
 
 <h2>Current Members:</h2>
-<b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): TBD.
-
-<b>Nina Da Fonseca Marques</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
-
-<b>Farayola Lewis</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
+<b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.
 
 <b>Cara Dixon</b> (PhD 2025-2029, MIBTP): Pollution-induced epigenetic changes in the Painted Lady butterfly.
 
@@ -32,6 +28,10 @@ In addition to the core lab, we associate with a few larger groupings within the
 
 
 <h2>Past Members:</h2>
+<b>Nina Da Fonseca Marques</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
+
+<b>Farayola Lewis</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
+
 <b>Nidhi Nayyar</b> (BSc 2025): Epigenetic and phenotypic consequences of Glyphosate exposure - testing a novel exposure method in <i>Nasonia vitripennis</i>.
 
 <b>Hayat Sirageldin-Elamin</b> (BSc 2025): Epigenetic and phenotypic consequences of flouride exposure in <i>Nasonia vitripennis</i>.
