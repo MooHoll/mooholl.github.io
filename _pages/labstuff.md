@@ -68,21 +68,3 @@ General project management:
   <p><a href="https://www.overleaf.com/about">Overleaf</a> - this is the platform that the lab generally uses for collaborative paper writing, it involves knowing a bit of LaTeX.</p>
 
 </details>
-
-<details>
-  <summary> <b><font size="+1">Summer Students</font></b> </summary>
-
-  <p> Accomodation options: 
-    <ul>
-    <li><a href="https://www.collegiate-ac.com/uk-student-accommodation/leicester/merlin-heights/">Merlin Herights:</a> apparently ~£85pw during the summer.</li>
-
-    <li><a href="https://www.stgeorgestower.co.uk/">St George's Tower:</a> apparently ~£158pw during the summer.</li>
-
-    <li><a href="https://roomstwo.le.ac.uk/second_Portal/CasualLets/">University halls:</a> Usually the halls on campus aren't available until mid July, but if you email and ask they may have something. This option is for Uni of Leicester students only.</li>
-
-    <li><a href="https://shop.le.ac.uk/product-catalogue/living-in-leicester/accommodation-payments/guest-accommodation-days-1-28">Nixon Court:</a> University halls, £40 per night, all year.</li>
-
-    </ul>
-  </p>
-  
-</details>

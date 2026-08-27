@@ -12,8 +12,6 @@ In addition to the core lab, we are part of an active Division/School with multi
 <h2>Current Members:</h2>
 <b>Dyuti Banerjee</b> (PhD 2026-2030, CENTA): DNA methylation as an environmentally-sensitve mutagen.
 
-<b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.
-
 <b>Cara Dixon</b> (PhD 2025-2029, MIBTP): Pollution-induced epigenetic changes in the Painted Lady butterfly.
 
 <b>Dayna Cottam</b> (PhD 2025-2029, CENTA): Multigenerational epigenetic consequences of pollution exposure in wild fish populations (Angling Trust CASE Studentship). 
@@ -24,12 +22,16 @@ In addition to the core lab, we are part of an active Division/School with multi
 
 
 <h2>Honorary Members:</h2>
-<b>Tamsin Woodman</b> (PhD 2022-): Laura Ross' lab - The University of Edinburgh
+<b>Tamsin Woodman</b> (PhD 2022-): Laura Ross' lab - University of Edinburgh
 
 <b>Ella Tadmor</b> (PhD 2022-): Shai Morin's lab - The Hebrew University of Jerusalem
 
+<b>Abir Hossain Patwary</b> (PhD 2022-): Aziz Aboobaker's lab - University of Oxford
+
 
 <h2>Past Members:</h2>
+<b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.
+
 <b>Nina Da Fonseca Marques</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
 
 <b>Farayola Lewis</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.

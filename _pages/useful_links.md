@@ -17,6 +17,9 @@ Here are some of my favourite societies. Societies are useful to join as they us
 - [The Royal Entomological Society](https://www.royensoc.co.uk)
 - [Society for Environmental Toxicology and Chemistry](https://www.setac.org/)
 - [The British Toxicology Society](https://www.thebts.org/)
+- [UK Environmental Mutagenesis Society](https://ukems.org.uk/)
+- [Fisheries Society of the British Isles](https://fsbi.org.uk/)
+
 
 <h2>Fellowships</h2>
 

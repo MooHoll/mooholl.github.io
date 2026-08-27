@@ -32,9 +32,9 @@ If you're unsure about doing a PhD or need more experience in order to win a fun
 
 <h2>Funded Undergraduate Summer Placement</h2>
 
-**NOTE: I am not taking any summer placement students during 2026.**
-
 Funded summer placements for UK students usually between their 2nd and 3rd years of study. Please note, I do not take on voluntary/unpaid projects as this is an unfair advantage over those from lower socioeconomic backgrounds who need to work.
+
+[UK Environmental Mutagenesis Society](https://ukems.org.uk/bursaries-summer-student-placements/) - deadline TBD.
 
 [The Genetics Society](https://genetics.org.uk/grants/summer-studentships/) - deadline March.
 
