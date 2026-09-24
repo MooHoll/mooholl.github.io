@@ -31,10 +31,10 @@ In addition to the core lab, we are part of an active Division/School with multi
 <b>Ella Tadmor</b> (PhD 2022-): Shai Morin's lab - The Hebrew University of Jerusalem
 
 <b>Abir Hossain Patwary</b> (PhD 2022-): Aziz Aboobaker's lab - University of Oxford
-
+<br>
 
 <details>
-  <summary> <b><font size="+2">Past Members:</font></b> </summary>
+  <summary> <b><font size="+1.5">Past Members:</font></b> </summary>
 
 <p><b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.</p>
 
