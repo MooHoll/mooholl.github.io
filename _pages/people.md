@@ -31,10 +31,12 @@ In addition to the core lab, we are part of an active Division/School with multi
 <b>Ella Tadmor</b> (PhD 2022-): Shai Morin's lab - The Hebrew University of Jerusalem
 
 <b>Abir Hossain Patwary</b> (PhD 2022-): Aziz Aboobaker's lab - University of Oxford
-<br>
+
+
+<h2>Past Members:</h2>
 
 <details>
-  <summary> <b><font size="+1.5">Past Members:</font></b> </summary>
+  <summary> <b><font size="+1">Masters Students:</font></b> </summary>
 
 <p><b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.</p>
 
@@ -42,25 +44,37 @@ In addition to the core lab, we are part of an active Division/School with multi
 
 <p><b>Farayola Lewis</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.</p>
 
-<p><b>Nidhi Nayyar</b> (BSc 2025): Epigenetic and phenotypic consequences of Glyphosate exposure - testing a novel exposure method in <i>Nasonia vitripennis</i>.</p>
-
-<p><b>Hayat Sirageldin-Elamin</b> (BSc 2025): Epigenetic and phenotypic consequences of flouride exposure in <i>Nasonia vitripennis</i>.</p>
-
 <p><b>Dyuti Banerjee</b> (MSc 2025, Molecular Genetics): Pollutant-induced epigenetic changes in the <i>MLH1</i> gene in <i>Nasonia vitripennis</i>.</p>
 
 <p><b>Vaishnavi Waman</b> (MSc 2025, Molecular Genetics): Multigenerational epigenetic effects of pesticide exposure in <i>Nasonia vitripennis</i>.</p>
 
 <p><b>Mitch Wosinski</b> (MSc 2025, Bioinformatics): How robust is the epigentic clock in <i>Daphnia magna</i>?</p>
 
-<p><b>Cara Dixon</b> (Summer student 2025, UoL SURE): Phenotypic and epigenetic responses in the pollinator <i>Bombus terrestris</i> under Martian conditions: implications for Mars habitability.</p>
-
 <p><b>Adam Dallin</b> (MSc 2025, Molecular Genetics): Sex-specific epigenetic consequences of exposure to emerging pollutants in arthropods. </p>
 
 <p><b>Naomi Musto</b> (MBiolSci 2025, Bioinformatics): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.</p>
 
+<p><b>Zainab Kanu</b> (MSc 2024, Bioinformatics): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.</p>
+
+</details>
+
+
+<details>
+  <summary> <b><font size="+1">Undergraduate Students:</font></b> </summary>
+
+<p><b>Nidhi Nayyar</b> (BSc 2025): Epigenetic and phenotypic consequences of Glyphosate exposure - testing a novel exposure method in <i>Nasonia vitripennis</i>.</p>
+
+<p><b>Hayat Sirageldin-Elamin</b> (BSc 2025): Epigenetic and phenotypic consequences of flouride exposure in <i>Nasonia vitripennis</i>.</p>
+
 <p><b>Ewan Edwards</b> (BSc 2024, Natural Sciences): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.</p>
 
-<p><b>Zainab Kanu</b> (MSc 2024, Bioinformatics): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.</p>
+</details>
+
+
+<details>
+  <summary> <b><font size="+1">Summer Students:</font></b> </summary>
+
+<p><b>Cara Dixon</b> (Summer student 2025, UoL SURE): Phenotypic and epigenetic responses in the pollinator <i>Bombus terrestris</i> under Martian conditions: implications for Mars habitability.</p>
 
 <p><b>Enioluwa Olawoore</b> (Summer student 2024, Edge Hill Opportunity Fund): Epigenetic effects of pollution in the marine amphipod, <i>Parhyale hawaiensis</i>.</p>
 
