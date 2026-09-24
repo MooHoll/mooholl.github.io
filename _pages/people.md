@@ -10,6 +10,10 @@ author_profile: true
 In addition to the core lab, we are part of an active Division/School with multiple seminar series and a thriving PhD culture. At University level, we associate with the Institute for Environmental Futures and the Centre for Environmental Health and Sustainability. These groups provide a rich interdisciplinary and social environment.
 
 <h2>Current Members:</h2>
+<b>Umama Naleef</b> (BSc, 2026 Medical Genetics): TBD
+
+<b>Bilal Dasoqi</b> (BSc, 2026): TBD
+
 <b>Dyuti Banerjee</b> (PhD 2026-2030, CENTA): DNA methylation as an environmentally-sensitve mutagen.
 
 <b>Cara Dixon</b> (PhD 2025-2029, MIBTP): Pollution-induced epigenetic changes in the Painted Lady butterfly.
@@ -28,42 +32,42 @@ In addition to the core lab, we are part of an active Division/School with multi
 
 <b>Abir Hossain Patwary</b> (PhD 2022-): Aziz Aboobaker's lab - University of Oxford
 
+
 <details>
-  <summary> <b><font size="+1">Past Members:</font></b> </summary>
+  <summary> <b><font size="+2">Past Members:</font></b> </summary>
 
 <p><b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.</p>
 
+<p><b>Nina Da Fonseca Marques</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.</p>
+
+<p><b>Farayola Lewis</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.</p>
+
+<p><b>Nidhi Nayyar</b> (BSc 2025): Epigenetic and phenotypic consequences of Glyphosate exposure - testing a novel exposure method in <i>Nasonia vitripennis</i>.</p>
+
+<p><b>Hayat Sirageldin-Elamin</b> (BSc 2025): Epigenetic and phenotypic consequences of flouride exposure in <i>Nasonia vitripennis</i>.</p>
+
+<p><b>Dyuti Banerjee</b> (MSc 2025, Molecular Genetics): Pollutant-induced epigenetic changes in the <i>MLH1</i> gene in <i>Nasonia vitripennis</i>.</p>
+
+<p><b>Vaishnavi Waman</b> (MSc 2025, Molecular Genetics): Multigenerational epigenetic effects of pesticide exposure in <i>Nasonia vitripennis</i>.</p>
+
+<p><b>Mitch Wosinski</b> (MSc 2025, Bioinformatics): How robust is the epigentic clock in <i>Daphnia magna</i>?</p>
+
+<p><b>Cara Dixon</b> (Summer student 2025, UoL SURE): Phenotypic and epigenetic responses in the pollinator <i>Bombus terrestris</i> under Martian conditions: implications for Mars habitability.</p>
+
+<p><b>Adam Dallin</b> (MSc 2025, Molecular Genetics): Sex-specific epigenetic consequences of exposure to emerging pollutants in arthropods. </p>
+
+<p><b>Naomi Musto</b> (MBiolSci 2025, Bioinformatics): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.</p>
+
+<p><b>Ewan Edwards</b> (BSc 2024, Natural Sciences): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.</p>
+
+<p><b>Zainab Kanu</b> (MSc 2024, Bioinformatics): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.</p>
+
+<p><b>Enioluwa Olawoore</b> (Summer student 2024, Edge Hill Opportunity Fund): Epigenetic effects of pollution in the marine amphipod, <i>Parhyale hawaiensis</i>.</p>
+
+<p><b>Lidia Tembo</b> (Summer student 2024, CENTA REP): Epigenetic effects of upstream eutrohpication in the marine amphipod, <i>Parhyale hawaiensis</i>.</p>
+
+<p><b>Kane Fortune</b> (Summer student 2024, CENTA REP): Epigenetic effects of microplastics in the marine amphipod, <i>Parhyale hawaiensis</i>.</p>
+
+<p><b>Joshua Byrne</b> (Summer student 2024, Edge Hill Opportunity Fund): The effect of an arable herbicide on the epigenetic landscape of <i>Daphnia magna</i> and <i>Nasonia vitripennis</i>.</p>
+
 </details>
-
-<b>Nina Da Fonseca Marques</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
-
-<b>Farayola Lewis</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
-
-<b>Nidhi Nayyar</b> (BSc 2025): Epigenetic and phenotypic consequences of Glyphosate exposure - testing a novel exposure method in <i>Nasonia vitripennis</i>.
-
-<b>Hayat Sirageldin-Elamin</b> (BSc 2025): Epigenetic and phenotypic consequences of flouride exposure in <i>Nasonia vitripennis</i>.
-
-<b>Dyuti Banerjee</b> (MSc 2025, Molecular Genetics): Pollutant-induced epigenetic changes in the <i>MLH1</i> gene in <i>Nasonia vitripennis</i>.
-
-<b>Vaishnavi Waman</b> (MSc 2025, Molecular Genetics): Multigenerational epigenetic effects of pesticide exposure in <i>Nasonia vitripennis</i>.
-
-<b>Mitch Wosinski</b> (MSc 2025, Bioinformatics): How robust is the epigentic clock in <i>Daphnia magna</i>?
-
-<b>Cara Dixon</b> (Summer student 2025, UoL SURE): Phenotypic and epigenetic responses in the pollinator <i>Bombus terrestris</i> under Martian conditions: implications for Mars habitability.
-
-<b>Adam Dallin</b> (MSc 2025, Molecular Genetics): Sex-specific epigenetic consequences of exposure to emerging pollutants in arthropods. 
-
-<b>Naomi Musto</b> (MBiolSci 2025, Bioinformatics): Differential expression of epigenetic regulating genes across evolutionary time in response to pollution.
-
-<b>Ewan Edwards</b> (BSc 2024, Natural Sciences): Phenotypic and DNA methylation changes in <i>Nasonia vitripennis</i> in response to microplastics.
-
-<b>Zainab Kanu</b> (MSc 2024, Bioinformatics): Developmental expression of DNMT genes in the ecotoxicological model organism, <i>Parhyale hawaiensis</i>.
-
-<b>Enioluwa Olawoore</b> (Summer student 2024, Edge Hill Opportunity Fund): Epigenetic effects of pollution in the marine amphipod, <i>Parhyale hawaiensis</i>.
-
-<b>Lidia Tembo</b> (Summer student 2024, CENTA REP): Epigenetic effects of upstream eutrohpication in the marine amphipod, <i>Parhyale hawaiensis</i>.
-
-<b>Kane Fortune</b> (Summer student 2024, CENTA REP): Epigenetic effects of microplastics in the marine amphipod, <i>Parhyale hawaiensis</i>.
-
-<b>Joshua Byrne</b> (Summer student 2024, Edge Hill Opportunity Fund): The effect of an arable herbicide on the epigenetic landscape of <i>Daphnia magna</i> and <i>Nasonia vitripennis</i>.
-
