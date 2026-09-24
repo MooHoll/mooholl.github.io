@@ -28,9 +28,12 @@ In addition to the core lab, we are part of an active Division/School with multi
 
 <b>Abir Hossain Patwary</b> (PhD 2022-): Aziz Aboobaker's lab - University of Oxford
 
+<details>
+  <summary> <b><font size="+1">Past Members:</font></b> </summary>
 
-<h2>Past Members:</h2>
-<b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.
+<p><b>Jashanpreet Kaur Taggar</b> (MSc 2026, Molecular Genetics): Cross-species epigenetic responses to Glyphosate exposure.</p>
+
+</details>
 
 <b>Nina Da Fonseca Marques</b> (MBiolSci 2026, Molecular Genetics): eDNA monitoring for invasive and endangered crayfish species in Leicestershire.
 
@@ -63,3 +66,4 @@ In addition to the core lab, we are part of an active Division/School with multi
 <b>Kane Fortune</b> (Summer student 2024, CENTA REP): Epigenetic effects of microplastics in the marine amphipod, <i>Parhyale hawaiensis</i>.
 
 <b>Joshua Byrne</b> (Summer student 2024, Edge Hill Opportunity Fund): The effect of an arable herbicide on the epigenetic landscape of <i>Daphnia magna</i> and <i>Nasonia vitripennis</i>.
+
