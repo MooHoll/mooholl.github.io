@@ -13,13 +13,16 @@ Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowsh
 
 [Tips for getting a PhD in the UK.](https://www.dropbox.com/scl/fi/v17vvn5vx1i7mz3j8aggb/Pro-tips-for-getting-a-PhD-in-the-UK.pptx?rlkey=hlo2z1rnr8wyluycetpfn7ee4&st=rscos63u&dl=0)
 
-Doctoral training partnership adverts will appear around October-December time.
+Doctoral training partnership adverts will appear around October-December time, these are scholarships that you apply for in order to carry out PhD research.
 
-[CENTA](https://centa.ac.uk/) - environmental-application focused
+[CENTA](https://centa.ac.uk/) - environmental-application focused \\
+(Not recruiting for this year: 2026)
 
-[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/) - molecular biology focused
+[MIBTP](https://warwick.ac.uk/fac/cross_fac/mibtp/) - molecular biology focused \\
+[Advert here.](https://www.findaphd.com/phds/project/environmental-imprinting-heritable-epigenetic-memory-of-past-pollution-events/?p199580)
 
-[FSBI](https://fsbi.org.uk/phd-studentships-fsbi/) - fish biology only
+[FSBI](https://fsbi.org.uk/phd-studentships-fsbi/) - fish biology only \\
+Contact me by the end of November as I can only support one application. 
 
 [CSC](https://www.csc.edu.cn/) - Chinese citizenship only
 
