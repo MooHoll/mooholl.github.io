@@ -10,9 +10,12 @@ author_profile: true
 In addition to the core lab, we are part of an active Division/School with multiple seminar series and a thriving PhD culture. At University level, we associate with the Institute for Environmental Futures and the Centre for Environmental Health and Sustainability. These groups provide a rich interdisciplinary and social environment.
 
 <h2>Current Members:</h2>
-<b>Umama Naleef</b> (BSc, 2026 Medical Genetics): TBD
+<!--<b>Lucy Hough</b> (MBiolSci 2027, Medical Genetics): Does DNA methylation knockdown influence phenotypic responses to pollution exposure?
+<b>Pamela Santos</b> (MBiolSci 2027, Medical Genetics): Establishment of a novel epigenetic model towards 3Rs policy.-->
 
-<b>Bilal Dasoqi</b> (BSc, 2026): TBD
+<b>Umama Naleef</b> (BSc 2026, Medical Genetics): Phenotypic and DNA methylation effects of PFOA in <i>Nasonia vitripennis</i>.
+
+<b>Bilal Dasoqi</b> (BSc 2026, Medical Biochemistry): Phenotypic and DNA methylation effects of Glyphosate in <i>Nasonia vitripennis</i>.
 
 <b>Dyuti Banerjee</b> (PhD 2026-2030, CENTA): DNA methylation as an environmentally-sensitve mutagen.
 
