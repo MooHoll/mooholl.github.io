@@ -7,7 +7,8 @@ author_profile: true
 
 ![wasp](../images/safe_labs.png){:width="100px" .align-left}
 
-We are proud to be [SAFE Labs](https://safelabs.info/) recognised, see current lab culture handbook for PhD students [here](https://www.dropbox.com/scl/fi/pmodvqpdkpv57p7ukilw9/PhD_starter_guide_2026.docx?rlkey=8ar6l11j7vhkbx19z4z5lep57&st=ptj2ltyw&dl=0), postdoc, MSc and undergrad versions coming soon.\\
+We are proud to be [SAFE Labs](https://safelabs.info/) recognised, see current lab culture handbook for PhD students [here](https://www.dropbox.com/scl/fi/pmodvqpdkpv57p7ukilw9/PhD_starter_guide_2026.docx?rlkey=8ar6l11j7vhkbx19z4z5lep57&st=ptj2ltyw&dl=0), postdoc, MSc and undergrad versions coming soon.
+<br>
 
 <h2>Postdocs</h2>
 I don't have any advertised projects currently, but I would be happy to support external fellowships.\
