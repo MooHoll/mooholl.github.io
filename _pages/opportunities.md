@@ -7,7 +7,7 @@ author_profile: true
 
 ![wasp](../images/safe_labs.png){:width="100px" .align-left}
 
-We are proud to be [SAFE Labs](https://safelabs.info/) recognised, see current lab culture handbook for PhD students [here](https://www.dropbox.com/scl/fi/pmodvqpdkpv57p7ukilw9/PhD_starter_guide_2026.docx?rlkey=8ar6l11j7vhkbx19z4z5lep57&st=ptj2ltyw&dl=0), postdoc, MSc and undergrad versions coming soon.
+We are proud to be [SAFE Labs](https://safelabs.info/) recognised, see current lab culture handbook for PhD students [here](https://www.dropbox.com/scl/fi/pmodvqpdkpv57p7ukilw9/PhD_starter_guide_2026.docx?rlkey=8ar6l11j7vhkbx19z4z5lep57&st=ptj2ltyw&dl=0), postdoc, MSc and undergrad versions coming soon.\\
 
 <h2>Postdocs</h2>
 I don't have any advertised projects currently, but I would be happy to support external fellowships.\
@@ -17,7 +17,7 @@ Check out this [database](https://ecrcentral.org/fundings) of worldwide fellowsh
 
 [Tips for getting a PhD in the UK.](https://www.dropbox.com/scl/fi/v17vvn5vx1i7mz3j8aggb/Pro-tips-for-getting-a-PhD-in-the-UK.pptx?rlkey=hlo2z1rnr8wyluycetpfn7ee4&st=rscos63u&dl=0)
 
-Doctoral training partnership adverts will appear around October-December time, these are scholarships that you apply for in order to carry out PhD research.
+Doctoral training partnership adverts will appear around October time, these are scholarships that you apply for in order to carry out PhD research.
 
 [CENTA](https://centa.ac.uk/) - environmental-application focused \\
 (Not recruiting for this year: 2026)
